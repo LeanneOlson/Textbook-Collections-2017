@@ -1,0 +1,79 @@
+RECORD #(ITEM),LOCATION,LOUTDATE,TOT CHKOUT,TOT RENEW,YTDCIRC,TOTAL CIRC,I TYPE,Circ,RECORD #(BIBLIO),245,99,IsText
+i61553153,kcstk,9/10/2009 14:10,1,0,0,1,0,1,b45928253,"Science, faith, and ethics : grid or gridlock? / Denis Alexander & Robert S. White.",CB430.A43 2006,n
+i47552074,wovrg,2/15/2006 18:36,4,0,0,4,0,4,b3485356x,"The American effect : global perspectives on the United States, 1990-2003 / [essays by] Lawrence Rinder ... [et al.]   [foreword Maxwell L. Anderson].",CB430.A49 2003,n
+i4364756x,wstkg,2/17/2016 13:23,31,10,0,31,0,31,b32042784,Fatal strategies / Jean Baudrillard   translated by Philip Beitchman and W. G. J. Niesluchowski   edited by Jim Fleming.,CB430.B38813 1990,n
+i57712098,kcstk,3/17/2016 16:18,3,3,0,3,0,3,b32042784,Fatal strategies / Jean Baudrillard   translated by Philip Beitchman and W. G. J. Niesluchowski   edited by Jim Fleming.,CB430.B38813 1990,n
+i60651714,wstkg,2/11/2016 17:52,14,11,1,13,0,14,b45103690,Fatal strategies / Jean Baudrillard   introduction by Dominic Pettman   translated by Philippe Beitchman and W.G.J. Niesluchowski.,CB430.B38813 2008,n
+i24347024,wstkg,5/21/2015 20:19,55,26,0,55,0,55,b20641576,Selected writings / Jean Baudrillard   edited by Mark Poster.,CB430.B39 1988,n
+i24822371,wstkg,4/22/2015 12:43,20,15,0,20,0,20,b2106992x,Modernity and ambivalence / Zygmunt Bauman.,CB430.B395 1991,n
+i56453164,wstkg,11/12/2012 13:45,5,0,0,5,0,5,b41494465,Beautiful things in popular culture / edited by Alan McKee.,CB430.B397 2007,n
+i48824392,wstkg,3/19/2008 13:01,3,3,0,3,0,3,b35132024,Cultural pessimism : narratives of decline in the postmodern world / Oliver Bennett.,CB430.B45 2001,n
+i56120357,wstkg,5/23/2008 13:59,3,0,0,3,0,3,b41235174,"The depth of shallow culture : the high art of shoes, movies, novels, monsters, and toys / Albert J. Bergesen.",CB430.B47 2006,n
+i62209838,wstkg,2/29/2016 15:05,5,2,0,5,0,5,b47268773,"The challenge of Eurocentrism : global perspectives, policy, and prospects / edited by Rajani Kannepalli Kanth   with the assistance of Amit Basole.",CB430.C43 2009,n
+i67693349,hstk ,8/8/2016 9:23,7,3,3,4,0,7,b53323518,The Rey Chow reader / edited by Paul Bowman.,CB430.C4975 2010,n
+i47276174,wstkg,2/25/2011 16:37,20,8,0,21,0,21,b34666321,Critical cultural policy studies : a reader / edited by Justin Lewis and Toby Miller.,CB430.C75 2003,n
+i61736119,wstkg,4/14/2016 23:21,8,7,0,8,0,8,b46618946,Cultural studies of the modern Middle Ages / edited by Eileen A. Joy ... [et al.].,CB430.C8475 2007,n
+i25975079,wstkg,4/10/2006 15:13,12,2,0,12,0,12,b21965377,The Culture and power of knowledge : inquiries into contemporary societies / edited by Nico Stehr and Richard V. Ericson.,CB430.C85 1992,n
+i25038199,wstkg,11/11/2014 14:32,36,26,0,36,0,36,b21241533,Consumer culture and postmodernism / Mike Featherstone.,CB430.F43 1991,n
+i58308581,wstkg,3/6/2015 16:42,14,7,0,14,0,14,b42742870,Consumer culture and postmodernism / Mike Featherstone.,CB430.F43 2007,n
+i36673870,wstkg,7/3/2004 14:13,14,11,0,14,0,14,b27252735,Popular culture : cavespace to cyberspace / Marshall W. Fishwick.,CB430.F574 1999,n
+i41272109,wstkg,11/7/2016 15:10,11,7,1,10,0,11,b30100562,Popular culture in a new age / Marshall W. Fishwick.,CB430.F576 2002,n
+i23907745,wstkg,11/4/2013 14:55,3,0,0,3,0,3,b2027595x,Blueprint for a higher civilization / by Henry Flynt.,CB430.F59 1975,n
+i1559760x,wstkg,1/23/2010 22:46,2,3,0,2,0,3,b14564877,"Earth, Inc. / R. Buckminster Fuller.",CB430.F84 1973,n
+i35309532,wstkg,1/28/2013 12:59,9,6,0,9,0,9,b26702757,Symptoms of culture / Marjorie Garber.,CB430.G37 1998,n
+i56897546,kcstk,  -  -  ,0,0,0,0,0,0,b26702757,Symptoms of culture / Marjorie Garber.,CB430.G37 1998,n
+i45162906,wstkg,3/9/2010 14:48,14,6,0,14,0,14,b32894673,Globalization and civilizations / edited by Mehdi Mozaffari.,CB430.G58 2002,n
+i49206497,wstkg,9/24/2015 19:15,7,6,0,7,0,7,b35303827,"Love, sex & tragedy : how the ancient world shapes our lives / Simon Goldhill.",CB430.G65 2004,n
+i84727019,kcstk,  -  -  ,1,0,1,0,0,1,b68473084,Age of discovery : navigating the risks and rewards of our new renaissance / Ian Goldin and Chris Kutarna.,CB430.G66 2016,n
+i84192173,ustk ,2/9/2017 12:50,5,2,5,0,0,5,b68215800,Homo deus : a brief history of tomorrow / Yuval Noah Harari.,CB430.H37 2016,n
+i84216967,kcstk,10/4/2016 15:14,2,1,2,0,0,2,b68215800,Homo deus : a brief history of tomorrow / Yuval Noah Harari.,CB430.H37 2016,n
+i23690847,wstkg,6/18/2015 15:04,35,23,0,35,0,35,b2009954x,Hiding in the light : on images and things / Dick Hebdige.,CB430.H4 1988,n
+i73502807,wstkg,5/13/2015 10:59,6,12,0,6,0,12,b59358725,'Pataphysics : a useless guide / Andrew Hugill.,CB430.H84 2012,n
+i20230059,rrdlg,  -  -  ,0,0,0,0,0,0,b17299421,Toward a philosophy of the seas [by] Horace M. Kallen.,CB430.K34,n
+i60206512,wstkg,2/22/2012 15:25,5,6,0,5,0,6,b44426070,"From kung fu to hip hop : globalization, revolution, and popular culture / M.T. Kato.",CB430.K38 2007,n
+i2473827x,wstkg,5/28/2014 16:46,9,2,0,9,0,9,b20999343,Modernity on endless trial / Leszek Kolakowski.,CB430.K64 1990,n
+i46620564,kcstk,11/19/2016 17:43,4,2,1,3,0,4,b34107757,Modernity on endless trial / Leszek Kolakowski.,CB430.K6M6,n
+i60559202,wstkg,11/20/2008 11:38,1,0,0,1,0,1,b45034199,Quantum shift in the global brain : how the new scientific reality can change us and our world / Ervin Laszlo.,CB430.L37 2008,n
+i23287846,wstkg,1/3/2011 9:43,2,3,0,2,0,3,b19778016,The future of immortality and other essays for a nuclear age / Robert Jay Lifton.,CB430.L54 1987,n
+i25944563,wstkg,12/3/2005 21:18,4,0,0,4,0,4,b21942122,The ethical crises of civilization : moral meltdown or advance? / Leslie Lipson.,CB430.L56 1993,n
+i46760878,kcstk,  -  -  ,0,0,0,0,0,0,b34225559,The future of immortality and other essays for a nuclear age / Robert Jay Lifton.,CB430.L5F8,n
+i41481525,wstkg,5/25/2015 17:14,7,9,0,7,0,9,b30165106,At the end of an age / John Lukacs.,CB430.L85 2002,n
+i47293925,hstk ,  -  -  ,0,0,0,0,0,0,b30165106,At the end of an age / John Lukacs.,CB430.L85 2002,n
+i50724824,wstkg,  -  -  ,0,0,0,0,0,0,b36489773,La gran desilusión / Juan Marsé.,CB430.M38 2004,n
+i34962529,wstkg,5/25/2015 17:14,32,19,0,32,0,32,b26567672,From Hegel to Madonna : towards a general economy of  commodity fetishism  / Robert Miklitsch.,CB430.M55 1998,n
+i60532385,wstkg,11/23/2009 15:24,6,1,0,6,0,6,b45008012,Bring on the Apocalypse : six arguments for global justice / George Monbiot.,CB430.M654 2008,n
+i6093783x,kcstk,3/4/2013 15:40,3,0,0,3,0,3,b45369409,Bring on the Apocalypse : essays on self-destruction / George Monbiot.,CB430.M654 2008,n
+i25189359,wstkg,4/14/2006 15:27,3,0,0,3,0,3,b21365702,"Looking for trouble : on shopping, gender and the cinema / Suzanne Moore.",CB430.M66 1991,n
+i47202592,kcstk,4/14/2007 13:49,1,0,0,1,0,1,b34599034,"NowHere : space, time and modernity / edited by Roger Friedland and Deirdre Boden   foreword by Anthony Giddens.",CB430.N68,n
+i57719718,krs2h,5/22/2015 16:15,0,13,0,24,6,24,b42379003,"Popular culture : a user's guide / Susie O'Brien, Imre Szeman.",CB430.O27 2004,z
+i6698242x,wres3,11/11/2015 13:51,14,3,0,26,3,40,b52536580,"Popular culture : a user's guide / Susie O'Brien, Imre Szeman.",CB430.O27 2010,z
+i78360365,krs2h,2/2/2017 16:45,7,4,7,54,6,61,b62304227,"Popular culture : a user's guide / Susie O'Brien, McMaster University, Imre Szeman, University of Alberta.",CB430.O27 2014,y
+i79521873,ustk ,9/26/2016 11:55,37,1,4,33,0,37,b62304227,"Popular culture : a user's guide / Susie O'Brien, McMaster University, Imre Szeman, University of Alberta.",CB430.O27 2014,y
+i83607754,wstkg,  -  -  ,0,0,0,0,0,0,b62304227,"Popular culture : a user's guide / Susie O'Brien, McMaster University, Imre Szeman, University of Alberta.",CB430.O27 2014,y
+i41748979,hstk ,1/26/2013 13:15,2,1,0,2,0,2,b30395409,Our creative diversity : report of the World Commission on Culture and Development.,CB430.O93 1998,n
+i39943719,wstkg,12/3/2011 13:32,6,11,0,6,0,11,b28065980,Phenomenological approaches to popular culture / edited by Michael T. Carroll and Eddie Tafoya.,CB430.P46 2000,n
+i37240006,wstkg,9/17/2013 18:00,29,25,0,29,0,29,b27538576,Building a bridge to the 18th century : how the past can improve our future / by Neil Postman.,CB430.P637 1999,n
+i25522759,wstkg,2/22/2011 11:57,33,16,0,57,0,57,b21636837,The Post-modern reader / edited by Charles Jencks.,CB430.P67 1992,n
+i70129460,wstkg,4/24/2015 13:21,7,5,0,7,0,7,b55758162,The post-modern reader / edited by Charles Jencks   with Eva Branscome and Léa-Catherine Szacka.,CB430.P67 2011,n
+i43946392,ustk ,11/1/2012 14:58,2,0,0,2,0,2,b32201229,Building a bridge to the 18th century : how the past can improve our future,CB430.P85,n
+i33689544,wstkg,2/13/2015 16:33,16,12,0,16,0,16,b25850878,Essays on the anthropology of reason / Paul Rabinow.,CB430.R24 1996,n
+i32962411,wstkg,1/14/2012 15:01,19,4,0,19,0,19,b2531676x,Reading the shape of the world : toward an international cultural studies / edited by Henry Schwarz & Richard Dienst.,CB430.R36 1996,n
+i76242754,kcstk,  -  -  ,0,0,0,0,0,0,b59552311,"Beyond civilization : society, culture, and the individual in the age of globalization / Harry Redner.",CB430.R37 2013,n
+i23344969,wstkg,4/3/2009 16:43,3,3,0,3,0,3,b19828925,A world without heroes : the modern tragedy / George Roche.,CB430.R63 1987,n
+i14417893,wstkg,1/18/2007 11:53,2,3,0,2,0,3,b13624313,Babelism  social problems of the Watergate Era [by] J. M. Sanchez-Perez.,CB430.S27,n
+i34822343,wstkg,3/4/2011 11:31,18,10,0,18,0,18,b26478560,Postmodernism and the other : the new imperialism of Western culture / Ziauddin Sardar.,CB430.S28 1998,n
+i72885014,kcstk,1/16/2013 16:05,2,5,0,2,0,5,b58651147,Satisfaction not guaranteed : dilemmas of progress in modern society / Peter N. Stearns.,CB430.S74 2012,n
+i34577579,wstkg,10/12/2012 11:05,23,4,0,23,0,23,b26355656,Studying culture : an introductory reader / edited by Ann Gray and Jim McGuigan.,CB430.S78 1997,n
+i37746091,wstkg,2/20/2007 11:54,6,5,0,6,0,6,b27713301,Modernities : a geohistorical interpretation / Peter J. Taylor.,CB430.T39 1999,n
+i24491470,wstkg,5/21/2015 20:19,19,8,0,19,0,19,b20757992,Theories of modernity and postmodernity / edited by Bryan S. Turner.,CB430.T43 1990,n
+i47069399,kcstk,7/25/2014 14:53,4,3,0,4,0,4,b34476970,Theories of modernity and postmodernity / edited by Bryan S. Turner.,CB430.T44,n
+i68101582,wstkg,3/25/2012 19:14,2,3,1,1,0,3,b53752119,The world : a beginner's guide / Göran Therborn.,CB430.T44 2011,n
+i72235214,kcstk,  -  -  ,0,0,0,0,0,0,b53752119,The world : a beginner's guide / Göran Therborn.,CB430.T44 2011,n
+i72243491,hstk ,  -  -  ,0,0,0,0,0,0,b53752119,The world : a beginner's guide / Göran Therborn.,CB430.T44 2011,n
+i46761111,kcstk,  -  -  ,0,0,0,0,0,0,b3422578x,Pacific shift / William Irwin Thompson.,CB430.T5P3,n
+i41678187,hstk ,11/21/2009 13:48,1,0,0,1,0,1,b30332771,Tradition and revolution [by] Ivan Illich [and others] Edited by Lionel Rubinoff.,CB430.T7,n
+i27417244,wstkg,4/28/2014 19:52,12,3,0,12,0,12,b23269352,Violence and mediation in contemporary culture / edited by Ronald Bogue and Marcel Cornis-Pope.,CB430.V56 1996,n
+i77824246,wres3,9/9/2015 15:36,2,0,0,2,3,4,b62048430,Waste-site stories : the recycling of memory / edited by Brian Neville and Johanne Villeneuve.,CB430.W37 2002,n
+i22626876,wstkg,3/18/2011 14:07,11,6,0,11,0,11,b19217924,Consuming passions : the dynamics of popular culture / Judith Williamson.,CB430.W55 1986,n
+i34463859,wstkg,11/29/2012 15:22,11,6,0,11,0,11,b26298697,The fetishism of modernities : epochal self-consciousness in contemporary social and political thought / Bernard Yack.,CB430.Y33 1997,n
+i57998127,wstkg,  -  -  ,0,0,0,0,0,0,b42547039,"La precisión de la incertidumbre : posmodernidad, vida cotidiana y escritura / Lauro Zavala.",CB430.Z35 2006,n

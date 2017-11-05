@@ -1,0 +1,67 @@
+RECORD #(ITEM),LOCATION,LOUTDATE,TOT CHKOUT,TOT RENEW,YTDCIRC,TOTAL CIRC,I TYPE,Circ,RECORD #(BIBLIO),245,99,IsText
+i11625326,wstkg,4/13/2009 14:08,2,1,0,2,0,2,b11307079,The golden booke of the leaden gods : London 1577 / Stephen Batman. The third part of ... Yvychurch : London 1592 / Abraham Fraunce. The fountaine of ancient fiction : London 1599 / [translated by] Richard Lynche.,BL720.B37,n
+i11634881,wstkg,6/17/2014 15:52,5,12,0,5,0,12,b11315854,Le imagini ... degli dei / Vincenzo Cartari.,BL720.C2 1976,n
+i1537418x,wstkg,  -  -  ,3,0,0,3,0,3,b14388546,"Mythologiae sive Explicationis fabularum libri decem, in quibus omnia prope naturalis et moralis philosophiae dogmata in veterum fabulis contenta fuisse perspicuè demonstratur. Opus cuius vis facultatis studiosis perutile ac prope necessarium. Accessit G. Linocerii Musarum Mythologia, & anonymi observationum in totam de dijs gentium narrationem libellus. Adiectae sunt insupernovissimae huic, post Germanicã & Gallicam, edtioni elegantissimae Deorum imagines, & eruditissimae mythologia M. Antonij Tritonij utinensis. Omnia summo studio, & exquisito labore emendata.",BL720.C6 1616,n
+i58072378,wstkg,10/15/2015 16:36,5,6,1,4,0,6,b42596087,Natale Conti's Mythologiae / translated and annotated by John Mulryan and Steven Brown.,BL720.C613 2006,n
+i58180199,wstkg,10/15/2015 16:36,5,6,1,4,0,6,b42596087,Natale Conti's Mythologiae / translated and annotated by John Mulryan and Steven Brown.,BL720.C613 2006,n
+i11638394,wstkg,1/7/2005 12:40,2,3,0,2,0,3,b11318776,"The poetical histories, London 1671 / Pierre Gautruche   translated by Marius D'Assigny. Appendix de Diis et heroibus poeticis, Rouen 1705 / Joseph de Jouvency.",BL720.G35 1976,n
+i12542982,wstkg,3/18/2016 22:01,4,3,0,4,0,4,b12046826,"The Pantheon : representing the fabulous histories of the heathen gods, and most illustrious heroes of antiquity in a short, plain, and familiar method, by the way of dialoque / by Andrew Tooke. -",BL720.P65 1808,n
+i45963253,jstk ,9/23/2011 9:34,1,0,0,1,0,1,b33595112,Astrology and religion among the Greeks and Romans / by Franz Valery Marie Cumont.,BL721 C8 1960,n
+i45963290,jstk ,11/21/2006 13:00,1,1,0,1,0,1,b3359515x,Grecian and Roman mythology . with an introductory notice by Taylor Lewis  also a series of illustrations in outline.,BL721 D99,n
+i45935129,jstk ,  -  -  ,0,0,0,0,0,0,b33569575,"The classic myths in English literature and in art, based originally on Bulfinch's  Age of fable  (1855) : accompanied by an interpretative and illustrative commentary / Charles Mills Gayley.",BL721 G39 1939,n
+i45935361,jstk ,11/21/2006 13:00,2,1,0,2,0,2,b33569617,"The myths of Greece & Rome : their stories, significance and origin / by H.A. Guerber.",BL721 G84,n
+i45963332,jstk ,  -  -  ,0,0,0,0,0,0,b33595197,Legends and myths of Greece and Rome / edited by S.H. McGrady.,BL721 L44 1942,n
+i4596337x,jstk ,11/21/2006 13:01,1,1,0,1,0,1,b33595239,The mythology of Greece and Rome / by O. Seeman edited by G.H. Bianchi.,BL721 S45,n
+i12104346,wstkg,11/27/2009 13:03,22,7,0,22,0,22,b11707598,Astrology and religion among the Greeks and Romans / by Franz Cumont.,BL721.C813 1960,n
+i43900446,ustk ,  -  -  ,0,0,0,0,0,0,b32157496,Astrology and religion among the Greeks and Romans,BL721.C97,n
+i12472657,wstkg,1/16/2009 17:12,13,1,0,13,0,13,b11998623,Grecian and Roman mythology / By M.A. Dwight   with an introductory notice by Tayler Lewis. -,BL721.D98,n
+i42080708,hstk ,  -  -  ,0,0,0,0,0,0,b30687949,"The classic myths in English literature and in art, based originally on Bulfinch's  Age of fable  (1855)  accompanied by an interpretative and illustrative commentary, by Charles Mills Gayley.",BL721.G3,n
+i2648691x,wstkg,2/13/2011 17:11,7,2,0,7,0,7,b22338421,The classic myths in English literature and in art : based originally on Bulfinch's  Age of fable  (1855)   accompanied by an interpretative and illustrative commentary / by Charles Mills Gayley.,BL721.G3 1911,n
+i15209386,wstkg,  -  -  ,3,1,0,3,0,3,b14263944,The classic myths in English literature and in art : based originally on Bulfinch's  Age of fable  (1855)   accompanied by an interpretative and illustrative commentary / by Charles Mills Gayley.,BL721.G3 1939,n
+i15182423,wstkg,2/28/2012 12:57,12,5,0,12,0,12,b14243210,The classic myths in English literature and in art : accompanied by an interpretative and illustrative commentary / by Charles Mills Gayley.,BL721.G3 1963,n
+i26462242,wstkg,4/25/2012 14:14,29,14,0,29,0,29,b22318872,Greece and Rome / H.A. Guerber.,BL721.G8 1994,n
+i12075577,wstkg,3/25/2004 14:50,7,0,0,7,0,7,b11681536,Myths of Greece and Rome / by Jane Harrison.,BL721.H35 1977,n
+i44222506,ustk ,3/24/2003 11:10,2,3,0,2,0,3,b32459348,Greek and Roman religion / Translated from the French by J. S. Tester.,BL721.H96,n
+i41829657,hstk ,10/7/2002 18:28,1,0,0,1,0,1,b30465138,Classic myth and legend / by A.R. Hope Moncrieff   with illustrations in colour & monochrome from famous paintings & tatuary.,BL721.M6,n
+i12472700,wstkg,12/19/2015 1:14,16,10,0,16,0,16,b11998659,Classic myth and legend / by A.R. Hope Moncrieff   with illustrations in colour & monochrome from famous paintings & statuary.,BL721.M65,n
+i41904722,hstk ,  -  -  ,0,0,0,0,0,0,b30530532,"Religions and religion : a study of the science of religion, pure and applied / by James Hope Moulton.",BL721.M927,n
+i1247423x,wstkg,11/17/2008 13:48,13,3,0,13,0,13,b11999937,The mythology of Greece and Rome : with special reference to its use in art / From the German of O. Seemann   ed. by G. H. Bianchi. -,BL721.S4,n
+i45935403,jstk ,8/27/2014 9:12,1,1,0,1,0,1,b33569654,Myths of the Greeks and Romans / Michael Grant.,BL722 G76 1965,n
+i45963411,jstk ,9/20/2007 14:50,1,0,0,1,0,1,b33595276,Greek and Roman religion / translated from the French by S.J. Tester.,BL722 H88 E5,n
+i45935440,jstk ,8/27/2014 9:12,4,2,0,4,0,4,b33569691,Hellenistic religions : an introduction / Luther H. Martin.,BL722 M33 1987,n
+i20588616,wstkg,10/16/2012 12:43,14,4,0,14,0,14,b17621860,"Faith, hope and worship : aspects of religious mentality in the ancient world / edited by H.S. Versnel.",BL722.F34 1981,n
+i12593023,wovrg,2/7/2011 13:48,8,0,0,8,0,8,b12085601,Greek and Roman mythology / [by] D. M. Field.,BL722.F53,n
+i12474551,wstkg,3/26/2012 10:47,18,5,0,18,0,18,b12000139,Myths of the Greeks and Romans.,BL722.G7 1962,n
+i44222373,ustk ,11/19/2007 21:06,2,1,0,2,0,2,b32459233,Myths of the Greeks and Romans,BL722.G76,n
+i10369466,wstkg,2/17/2012 17:05,1,0,0,1,0,1,b10282609,Scritti scelti sulla religione greca e romana e sul cristianesimo / Margherita Guarducci,BL722.G82 1983,n
+i58207995,wdk2h,2/24/2017 15:07,29,10,29,76,6,35,b42676241,"Classical mythology : images and insights / Stephen L. Harris, Gloria Platzner.",BL722.H37 2008,z
+i80778033,wdk2h,2/27/2017 13:51,114,0,114,96,6,120,b64633639,"Classical mythology : images and insights / Stephen L. Harris, Gloria Platzner.",BL722.H37 2012,y
+i12473078,wstkg,6/26/2007 13:12,16,4,1,15,0,16,b11998957,Classical gods and heroes : myths as told by the ancient authors / translated and introduced by Rhoda A. Hendricks.,BL722.H45,n
+i1247387x,wstkg,1/28/2012 12:57,16,6,0,16,0,16,b11999640,The religion of the Greeks and Romans [Translated by Christopher Holme],BL722.K4,n
+i46800311,kcstk,10/9/2012 12:21,1,0,0,1,0,1,b34258838,The religion of the Greeks and Romans / C. Kerenyi. [Translated by Christopher Holme] With 124 monochrome plates.,BL722.K4R4,n
+i15208369,wstkg,11/3/2004 11:25,4,2,0,4,0,4,b14263245,Four ages of man : the classical myths / by Jay Macpherson.,BL722.M3,n
+i15208370,wstkg,4/23/2014 22:24,4,3,0,4,0,4,b14263245,Four ages of man : the classical myths / by Jay Macpherson.,BL722.M3,n
+i15208175,wstkg,3/14/2006 12:22,4,1,0,4,0,4,b14263117,Four ages of man : the classical myths / by Jay Macpherson.,BL722.M3 1962,n
+i2374442x,wstkg,  -  -  ,3,2,0,3,0,3,b20143400,Four ages of man : the classical myths / by Jay Macpherson.,BL722.M3 1971,n
+i23288085,wstkg,11/16/2011 15:57,19,7,0,19,0,19,b19778235,Hellenistic religions : an introduction / Luther H. Martin.,BL722.M33 1987,n
+i46299002,kcstk,9/28/2010 12:27,1,0,0,1,0,1,b33866995,Four ages of man   the classical myths,BL722.M3F6,n
+i33114122,wstkg,1/14/2016 15:20,61,13,0,61,0,61,b25495914,"Classical mythology / Mark P.O. Morford, Robert J. Lenardon.",BL722.M67 1995,n
+i44540644,wstkg,3/31/2009 17:57,25,19,0,25,0,25,b32671234,"Classical mythology / Mark P.O. Morford, Robert J. Lenardon.",BL722.M67 2003,n
+i66893495,wstkg,1/29/2016 14:44,8,8,0,8,0,8,b52393513,"Classical mythology / Mark P.O. Morford, Robert J. Lenardon, Michael Sham.",BL722.M67 2011,n
+i44222361,ustk ,4/3/2008 11:25,2,0,0,2,0,2,b32459221,"Classical mythology / Mark P. O. Morford, Robert J. Lenardon.",BL722.M84,n
+i3427585x,wstkg,4/23/2014 22:24,53,26,0,53,0,53,b26198496,Classical myth / Barry B. Powell   with new translations of ancient texts by Herbert M. Howe.,BL722.P68 1998,n
+i12473820,wstkg,  -  -  ,4,0,0,4,0,4,b11999603,Past and present  the continuity of classical myths. Drawings by Anna Held Audette.,BL722.R4,n
+i42017075,hstk ,  -  -  ,0,0,0,0,0,0,b30630666,"Religion in Greece and Rome, with a new introd. by the author.",BL722.R66,n
+i12562580,rrdlg,  -  -  ,1,0,0,1,0,1,b12061487,"Religion in Greece and Rome, with a new introd. by the author.",BL722.R68,n
+i12474514,wstkg,10/27/2006 14:18,17,5,0,17,0,17,b12000097,"Religion in Greece and Rome, with a new introd. by the author.",BL722.R68 1959,n
+i25806543,wstkg,3/23/2015 20:08,31,17,0,31,0,31,b21846984,A handbook of classical myths and legends / J.P. Sharma.,BL722.S53 1990,n
+i25023044,wstkg,6/16/2016 19:37,15,9,0,15,0,15,b21230262,Inconsistencies in Greek and Roman religion / by H.S. Versnel.,BL722.V47 1990,n
+i46072421,jstk ,12/12/2007 15:38,3,1,0,3,0,3,b3369915x,Religions of the Hellentistic Roman age / Antonío Tripolitis.,BL723 T75 2002,n
+i49220792,wstkg,4/3/2006 16:44,3,0,0,3,0,3,b35308308,"From Ikaria to the stars : classical mythification, ancient and modern / Peter Green.",BL723.G74 2004,n
+i61279419,wstkg,8/1/2012 17:44,5,1,0,5,0,5,b45926372,The Penguin book of classical myths / Jenny March.,BL723.M37 2008,n
+i71171113,kcstk,10/2/2014 20:13,4,2,0,4,0,4,b5585851x,The Greek and Roman myths : a guide to the classical stories / Philip Matyszak.,BL723.M378 2010,n
+i60433759,wstkg,9/8/2014 13:54,4,6,0,4,0,6,b4489305x,Classical mythology : a very short introduction / Helen Morales.,BL723.M67 2007,n
+i77908107,wstkg,11/29/2015 19:26,4,2,0,4,0,4,b61871503,Drakōn : dragon myth and serpent cult in the Greek and Roman worlds / Daniel Ogden.,BL723.O43 2013,n
+i24699780,wstkg,10/7/2011 17:30,6,1,0,6,0,6,b20963269,"Change and continuity in adult life / Marjorie Fiske, David A. Chiriboga.",BL724.55.A35L68 1990,n
+i44372334,ustk ,3/24/2003 11:09,1,1,0,1,0,1,b32593387,"Legends and myths of Greece and Rome, / edited by S. H. McGrady.",BL725.M14,n
+i15374300,wstkg,  -  -  ,2,0,0,2,0,2,b14388662,"King Midas' secret, and other follies.",BL725.W4,n

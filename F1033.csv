@@ -1,0 +1,115 @@
+RECORD #(ITEM),LOCATION,LOUTDATE,TOT CHKOUT,TOT RENEW,YTDCIRC,TOTAL CIRC,I TYPE,Circ,RECORD #(BIBLIO),245,99,IsText
+i40177816,wstkg,2008-04-28 16:46,9,1,0,12,0,12,b29498971,Luther H. Holton : a founding Canadian entrepreneur / Henry C. Klassen.,F1032.3.H76K56 2001,n
+i41607922,hstk ,2003-03-31 12:13,3,2,0,3,0,3,b29498971,Luther H. Holton : a founding Canadian entrepreneur / Henry C. Klassen.,F1032.3.H76K56 2001,n
+i43959453,ustk ,2003-03-19 12:58,4,6,0,4,0,6,b29498971,Luther H. Holton : a founding Canadian entrepreneur / Henry C. Klassen.,F1032.3.H76K56 2001,n
+i44150301,ustk ,2006-10-20 13:54,2,2,0,2,0,2,b32392114,The politics of John W. Dafoe and the Free press,F1033.D13C7,n
+i23517050,wstkg,  -  -  ,0,0,0,0,0,0,b19961108,Builders of a nation / by John Dando.,F1033.D18 1949,n
+i78602439,wstkg,2015-01-21 15:21,3,1,0,3,0,3,b62525359,The dawn of Canada's century : hidden histories / edited by Gordon Darroch.,F1033.D26 2014,n
+i79159710,hstk ,2015-11-18 10:30,1,0,0,1,0,1,b62525359,The dawn of Canada's century : hidden histories / edited by Gordon Darroch.,F1033.D26 2014,n
+i7970962x,ustk ,2015-03-17 14:04,1,0,0,1,0,1,b62525359,The dawn of Canada's century : hidden histories / edited by Gordon Darroch.,F1033.D26 2014,n
+i3318317x,ckit2,2003-10-02 8:01,34,0,0,34,4,68,b25560268,"Decades : forces of change, 1896-1960 / Dennis DesRivi_®res ... [et al.].",F1033.D34 1996,n
+i70291676,wstkg,2014-10-15 15:05,5,4,0,5,0,5,b5588703x,The struggle for Imperial unity : recollections and experiences / by George T. Denison.,F1033.D395 2010,n
+i46345279,kcstk,2012-11-29 15:21,1,3,0,1,0,3,b33903645,"The Dafoe-Sifton correspondence, 1919-1927 / [edited by] Ramsay Cook.",F1033.D3A3,n
+i46345413,kcstk,2014-11-14 18:17,2,2,0,2,0,2,b33903748,The politics of John W. Dafoe and the Free Press,F1033.D3C6,n
+i46746663,kcstk,2006-09-20 14:26,1,2,0,1,0,2,b3421446x,Dafoe of the Free Press / [by] Murray Donnelly.,F1033.D3D6,n
+i5650407x,wstkg,2015-09-02 9:31,6,9,0,6,0,9,b41557396,Lord Stanley : the man behind the cup / Kevin Shea and John Jason Wilson.,F1033.D47S44 2006,n
+i57711720,kcstk,2007-07-31 15:40,1,0,0,1,0,1,b41557396,Lord Stanley : the man behind the cup / Kevin Shea and John Jason Wilson.,F1033.D47S44 2006,n
+i46344962,kcstk,2012-02-02 19:29,2,0,0,2,0,2,b33903426,The struggle for imperial unity,F1033.D4S8,n
+i7208022x,estkg,2013-09-11 15:54,1,0,0,1,0,1,b57617181,Disasters / edited by Heather Kissock.,F1033.D57 2012,n
+i1320516x,wstkg,2014-11-30 22:51,19,8,0,19,0,19,b12615717,Fifteen men : Canada's prime ministers from Macdonald to Trudeau / by Gordon Donaldson   illustrated by Don Morrison.,F1033.D69,n
+i13205171,wstkg,2003-03-07 12:13,4,2,0,4,0,4,b12615717,Fifteen men : Canada's prime ministers from Macdonald to Trudeau / by Gordon Donaldson   illustrated by Don Morrison.,F1033.D69,n
+i13205183,wstkg,2003-05-07 18:25,11,2,0,11,0,11,b12615717,Fifteen men : Canada's prime ministers from Macdonald to Trudeau / by Gordon Donaldson   illustrated by Don Morrison.,F1033.D69,n
+i16285840,wstkg,2008-03-05 11:14,20,6,0,20,0,20,b15117303,Sixteen men : the prime ministers of Canada / by Gordon Donaldson.,F1033.D69 1980,n
+i21852571,wstkg,2012-11-01 15:08,35,15,0,35,0,35,b18578986,Eighteen men : the prime ministers of Canada / by Gordon Donaldson.,F1033.D69 1985,n
+i1652780x,wstkg,2017-03-07 14:48,7,6,2,5,0,7,b15303007,"Canadian independence, annexation and British imperial federation, by James Douglas.",F1033.D73,n
+i67853419,estkg,  -  -  ,0,0,0,0,0,0,b53491026,The British North America Act / [Penny Dowdy].,F1033.D79 2011,n
+i25546119,wstkg,  -  -  ,1,0,0,1,0,1,b21656927,Hear! hear! : 125 years of debate in Canada's House of Commons / Lloyd Duhaime   illustrated by Graham Pilsworth.,F1033.D85 1992,n
+i6404466x,lmab ,  -  -  ,0,0,0,0,0,0,b21656927,Hear! hear! : 125 years of debate in Canada's House of Commons / Lloyd Duhaime   illustrated by Graham Pilsworth.,F1033.D85 1992,n
+i46746651,kcstk,  -  -  ,0,0,0,0,0,0,b34214458,"Speeches of the Earl of Dufferin, Governor-General of Canada, 1872-1878. / Toronto, J. R. Robertson, 1878.",F1033.D8A6,n
+i71985219,ustk ,2015-11-12 11:41,3,3,0,3,0,3,b57509761,Canada 1911 : the decisive election that shaped the country / Patrice Dutil and David MacKenzie.,F1033.D97 2011,n
+i80324691,wres3,2015-11-16 9:12,2,0,0,2,3,4,b57509761,Canada 1911 : the decisive election that shaped the country / Patrice Dutil and David MacKenzie.,F1033.D97 2011,n
+i35915833,wstkg,2014-07-23 17:05,6,0,0,6,0,6,b26907859,"My dearest wife : the private and public lives of James David Edgar and Matilda Ridout Edgar / Maud J. McLean, Robert M. Stamp.",F1033.E34M35 1998.,n
+i16527823,wstkg,2011-03-21 17:55,27,16,1,26,0,27,b15303020,"The Canadian contingents and Canadian imperialism. A story and a study, by W. Sanford Evans.",F1033.E92,n
+i16527835,wstkg,2013-10-01 10:36,9,7,0,9,0,9,b15303032,"The Federation of Canada, 1867-1917 : four lectures delivered in the University of Toronto in March, 1917, to commemorate the fiftieth anniversary of the Federation / by George M. Wrong, Sir John Willison, Z.A. Lash, R.A. Falconer.",F1033.F29,n
+i16527860,wstkg,2014-07-04 13:36,7,11,0,7,0,11,b15303044,"Sandford Fleming, empire builder, by Lawrence J. Burpee.",F1033.F6B8,n
+i46345498,kcstk,  -  -  ,0,0,0,0,0,0,b33903815,Canadian addresses / by the Hon. George E. Foster   edited by Arnold Winterbotham,F1033.F6C3,n
+i46345504,kcstk,2014-03-03 9:55,3,0,0,3,0,3,b33903827,The memoirs of the Rt. Hon. Sir George Foster,F1033.F6W3,n
+i47067342,kcstk,2007-03-19 17:46,5,1,0,5,0,5,b34475175,"Destinies : Canadian history since Confederation / R. Douglas Francis, Richard Jones, Donald B. Smith.",F1033.F73D4 1996,n
+i47186379,kcstk,2014-06-18 10:07,10,6,0,20,0,20,b3458464x,"Destinies : Canadian history since Confederation / R. Douglas Francis, Richard Jones, Donald B. Smith.",F1033.F73D4 2000,n
+i49295652,kcstk,2016-04-16 16:53,12,4,0,31,0,31,b35349013,"Destinies : Canadian history since Confederation / R. Douglas Francis, Richard Jones, Donald B. Smith.",F1033.F73D4 2004,n
+i52998824,wstkg,2016-04-05 16:44,18,8,0,18,0,18,b35349013,"Destinies : Canadian history since Confederation / R. Douglas Francis, Richard Jones, Donald B. Smith.",F1033.F73D4 2004,n
+i5623966x,hstk ,2014-04-17 15:12,14,4,0,14,0,14,b35349013,"Destinies : Canadian history since Confederation / R. Douglas Francis, Richard Jones, Donald B. Smith.",F1033.F73D4 2004,n
+i62487917,kcstk,2016-04-04 16:25,4,0,0,17,0,17,b47594172,"Destinies : Canadian history since Confederation / R. Douglas Francis, Richard Jones, Donald B. Smith.",F1033.F73D4 2010,n
+i60940359,kcstk,2010-05-08 12:56,3,2,0,4,0,4,b45554729,Toward today's Canada : Canadian history since Confederation.,F1033.F73D42 2008,n
+i16527884,wstkg,2010-07-14 16:59,9,23,0,9,0,23,b15303056,"Canada first : a memorial of the late William A. Foster, Q.C. / with introduction by Goldwin Smith.",F1033.F75,n
+i15427778,wstkg,  -  -  ,3,0,0,3,0,3,b14430368,The memoirs of the Rt. Hon. Sir George Foster / by W. Stewart Wallace.,F1033.F767,n
+i1542778x,wstkg,2009-09-08 8:49,3,5,0,3,0,5,b14430368,The memoirs of the Rt. Hon. Sir George Foster / by W. Stewart Wallace.,F1033.F767,n
+i23543449,wstkg,2011-01-05 11:35,34,7,0,35,0,35,b19981557,"Destinies : Canadian history since Confederation / R. Douglas Francis, Richard Jones, Donald B. Smith.",F1033.F78 1988,z
+i27480173,wstkg,2017-01-10 10:36,77,36,2,83,0,83,b23319562,"Destinies : Canadian history since Confederation / R. Douglas Francis, Richard Jones, Donald B. Smith.",F1033.F78 1996,z
+i6147583x,wstkg,2016-11-14 16:55,24,13,2,22,0,24,b46116904,"Destinies : Canadian history since Confederation / R. Douglas Francis, Richard Jones, Donald B. Smith.",F1033.F78 2007,z
+i71429670,wdk2h,2017-03-01 10:19,1,12,1,16,6,17,b56953197,Destinies : Canadian history since Confederation / R. Douglas Francis ... [et al.].,F1033.F78 2011,y
+i72190772,wdk2h,2017-02-15 9:45,5,0,5,29,6,34,b56953197,Destinies : Canadian history since Confederation / R. Douglas Francis ... [et al.].,F1033.F78 2011,y
+i72190784,wdk2h,2016-04-03 16:17,0,0,0,9,6,9,b56953197,Destinies : Canadian history since Confederation / R. Douglas Francis ... [et al.].,F1033.F78 2011,y
+i72190796,wdk2h,2017-02-13 13:40,4,0,4,18,6,22,b56953197,Destinies : Canadian history since Confederation / R. Douglas Francis ... [et al.].,F1033.F78 2011,y
+i16495251,wstkg,2008-04-01 21:25,2,0,0,2,0,2,b15280986,None of it came easy : the story of James Garfield Gardiner / with a foreword by Burton T. Ricardson.,F1033.G22B4,n
+i16495263,wstkg,2010-02-07 15:57,3,5,0,3,0,5,b15280986,None of it came easy : the story of James Garfield Gardiner / with a foreword by Burton T. Ricardson.,F1033.G22B4,n
+i15427791,wstkg,  -  -  ,0,0,0,0,0,0,b1443037x,Parliamentary directory and statistical guide.,F1033.G23,n
+i4784033x,hstk ,  -  -  ,0,0,0,0,0,0,b1443037x,Parliamentary directory and statistical guide.,F1033.G23,n
+i22082979,rrdlg,  -  -  ,0,0,0,0,0,0,b18757194,"Nation-making : biographies of the men who made the Canadian nation, 1867-85 / by J.L. Granatstein.",F1033.G72 1967,n
+i47109051,kcstk,2012-05-04 9:47,2,3,0,2,0,3,b34513085,Mrs. King : the life and times of Isabel Mackenzie King / Charlotte Gray.,F1033.G73M7,n
+i15427808,wstkg,2011-12-01 12:03,1,2,0,1,0,2,b14430381,"I remember, by W.A. Griesbach.",F1033.G75,n
+i46746602,kcstk,2013-10-25 10:34,17,12,0,20,0,20,b34214434,"Canada's war : the politics of the Mackenzie King government, 1939-1945 / J. L. Granatstein.",F1033.G7C3,n
+i46746638,kcstk,2013-02-03 15:24,13,10,0,13,0,13,b34214434,"Canada's war : the politics of the Mackenzie King government, 1939-1945 / J. L. Granatstein.",F1033.G7C3,n
+i4718789x,kcstk,2016-04-30 15:23,16,7,0,45,0,45,b34586167,"Canada's war : the politics of the Mackenzie King government, 1939-1945 / J. L. Granatstein.",F1033.G7C3 1990,n
+i15427857,wstkg,  -  -  ,3,1,0,3,0,3,b14430435,"Simpson's confederation jubilee series, 1867-1927, drawings ... specially prepared ... by A. Wynne-Clark ... with supervision of historical data by C.W. Jefferys.",F1033.H225,n
+i13082747,wstkg,2009-04-08 16:58,5,2,0,5,0,5,b12517677,"Achates, or, The future of Canada / by W. Eric Harris.",F1033.H31,n
+i21186133,rrdlg,  -  -  ,0,0,0,0,0,0,b18080819,Nation builders.,F1033.H32,n
+i46345516,kcstk,2012-11-05 17:25,1,0,0,1,0,1,b33903839,"Reminiscences of a raconteur, between the '40s and the '20s / by George H. Ham.",F1033.H33R4,n
+i46746596,kcstk,2014-04-02 12:00,3,4,0,3,0,4,b34214422,From sea unto sea  : Canada--1850 to 1910: the road to nationhood.,F1033.H3F7,n
+i47115336,kcstk,2016-03-19 17:53,9,5,0,9,0,9,b34518563,W.L. MacKenzie King : a bibliography and research guide / George F. Henderson.,F1033.H45W5,n
+i46602409,kcstk,2012-04-11 14:12,3,1,0,3,0,3,b34093941,History of the Canadian peoples.,F1033.H5,n
+i46602410,kcstk,2014-04-02 12:00,9,5,0,9,0,9,b34093941,History of the Canadian peoples.,F1033.H5,n
+i25823462,wstkg,  -  -  ,5,0,0,5,0,5,b21860038,History of the Canadian peoples.,F1033.H58 1993,n
+i25823474,wstkg,2011-04-18 13:10,28,15,0,28,0,28,b21860038,History of the Canadian peoples.,F1033.H58 1993,n
+i35035031,wstkg,2013-04-17 13:45,40,25,0,40,0,40,b2660887x,History of the Canadian peoples.,F1033.H58 1998,n
+i40904180,wstkg,2016-12-10 11:33,36,16,1,35,0,36,b30015364,"History of the Canadian peoples / Alvin Finkel, Margaret Conrad.",F1033.H58 2002,n
+i41406175,wstkg,2012-09-24 17:02,17,5,0,17,0,17,b30015364,"History of the Canadian peoples / Alvin Finkel, Margaret Conrad.",F1033.H58 2002,n
+i45177132,ustk ,2011-12-01 16:12,3,1,0,4,0,4,b30015364,"History of the Canadian peoples / Alvin Finkel, Margaret Conrad.",F1033.H58 2002,n
+i51582909,ustk ,2017-01-05 16:25,3,0,1,6,0,6,b30015364,"History of the Canadian peoples / Alvin Finkel, Margaret Conrad.",F1033.H58 2002,n
+i62190842,kcstk,2013-06-14 14:30,4,3,0,4,0,4,b30015364,"History of the Canadian peoples / Alvin Finkel, Margaret Conrad.",F1033.H58 2002,n
+i51695844,wstkg,2012-05-11 11:51,13,11,0,13,0,13,b37377097,"History of the Canadian peoples. Volume 1, Beginnings to 1867 / Margaret Conrad, Alvin Finkel.",F1033.H58 2006,n
+i35600639,wstkg,2014-12-08 9:48,29,2,0,57,0,57,b26782133,A history of the Canadian peoples / J.M. Bumsted.,F1033.H582 1998,n
+i37142070,wstkg,2014-10-29 12:12,37,20,0,47,0,47,b26782133,A history of the Canadian peoples / J.M. Bumsted.,F1033.H582 1998,n
+i19569099,rrdlg,  -  -  ,0,0,0,0,0,0,b16715147,Decisive decades / by A.B. Hodgetts.,F1033.H68 1960,n
+i33052840,wstkg,2012-11-27 14:33,5,0,0,5,0,5,b16715147,Decisive decades / by A.B. Hodgetts.,F1033.H68 1960,n
+i45688722,jstk ,  -  -  ,0,0,0,0,0,0,b10966006,Canadian history since Confederation : essays and interpretations / edited by Bruce Hodgins and Robert Page.,F1033.H7,n
+i46746572,kcstk,  -  -  ,0,0,0,0,0,0,b10966006,Canadian history since Confederation : essays and interpretations / edited by Bruce Hodgins and Robert Page.,F1033.H7,n
+i13751633,wstkg,2012-11-23 11:47,3,0,0,3,0,3,b13057339,Canadian history since Confederation : essays and interpretations / edited by Bruce Hodgins and Robert Page.,F1033.H7 1979,n
+i13751657,wstkg,2016-10-29 16:36,5,2,1,4,0,5,b13057339,Canadian history since Confederation : essays and interpretations / edited by Bruce Hodgins and Robert Page.,F1033.H7 1979,n
+i13751669,wstkg,2014-03-08 19:17,5,1,0,5,0,5,b13057339,Canadian history since Confederation : essays and interpretations / edited by Bruce Hodgins and Robert Page.,F1033.H7 1979,n
+i42724041,hstk ,2003-11-17 16:00,1,0,0,1,0,1,b13057339,Canadian history since Confederation : essays and interpretations / edited by Bruce Hodgins and Robert Page.,F1033.H7 1979,n
+i44149517,ustk ,2005-10-11 11:50,2,1,0,2,0,2,b13057339,Canadian history since Confederation : essays and interpretations / edited by Bruce Hodgins and Robert Page.,F1033.H7 1979,n
+i46746559,kcstk,  -  -  ,0,0,0,0,0,0,b13057339,Canadian history since Confederation : essays and interpretations / edited by Bruce Hodgins and Robert Page.,F1033.H7 1979,n
+i15427900,wstkg,2005-03-24 11:46,2,0,0,2,0,2,b14430460,Men of the day : a Canadian portrait gallery / edited by Louis H. Tach_©.,F1033.H76,n
+i15427912,wstkg,  -  -  ,0,0,0,0,0,0,b14430460,Men of the day : a Canadian portrait gallery / edited by Louis H. Tach_©.,F1033.H76,n
+i13728581,wstkg,2015-04-06 21:14,11,7,0,11,0,11,b13039222,"Canada since confederation / Richard Howard, Sonia Riddoch, Peter Watson   consulting editor: Keith Matthews.",F1033.H83,n
+i22717389,wstkg,2014-12-06 13:11,20,5,0,20,0,20,b19280737,"Sam Hughes : the public career of a controversial Canadian, 1885-1916 / Ronald G. Haycock.",F1033.H85H39 1986,n
+i22717390,wstkg,2015-03-29 17:14,11,10,0,11,0,11,b19280737,"Sam Hughes : the public career of a controversial Canadian, 1885-1916 / Ronald G. Haycock.",F1033.H85H39 1986,n
+i42405191,hstk ,2013-05-22 15:02,4,0,0,4,0,4,b19280737,"Sam Hughes : the public career of a controversial Canadian, 1885-1916 / Ronald G. Haycock.",F1033.H85H39 1986,n
+i44150295,ustk ,2007-02-22 14:15,1,0,0,1,0,1,b19280737,"Sam Hughes : the public career of a controversial Canadian, 1885-1916 / Ronald G. Haycock.",F1033.H85H39 1986,n
+i46660689,kcstk,2015-01-29 23:43,7,2,0,7,0,7,b19280737,"Sam Hughes : the public career of a controversial Canadian, 1885-1916 / Ronald G. Haycock.",F1033.H85H39 1986,n
+i38402580,ctxg ,2015-04-28 14:02,70,38,0,155,0,155,b27966549,"Canadian history 1900-2000 / Ian M. Hundey, Michael L. Magarrey.",F1033.H86 2000,n
+i15192374,wstkg,2013-11-19 14:20,28,14,0,28,0,28,b14250846,Macdonald to Pearson : the prime ministers of Canada / Bruce Hutchison.,F1033.H875,n
+i1542795x,wstkg,2016-02-06 16:05,21,9,0,21,0,21,b14430484,"Mr. Prime Minister, 1867-1964 / Bruce Hutchison.",F1033.H88 1964,n
+i15427961,wstkg,2014-03-17 15:48,16,5,0,16,0,16,b14430484,"Mr. Prime Minister, 1867-1964 / Bruce Hutchison.",F1033.H88 1964,n
+i15427973,wstkg,2005-02-22 13:52,10,9,0,10,0,10,b14430484,"Mr. Prime Minister, 1867-1964 / Bruce Hutchison.",F1033.H88 1964,n
+i46345528,kcstk,2012-12-05 18:50,5,2,0,5,0,5,b33903840,His faults lie gently : the incredible Sam Hughes / Alan Capon   with foreword by Leslie M. Frost.,F1033.H8C3,n
+i6219804x,kcstk,2012-04-11 14:12,2,0,0,2,0,2,b47184024,True patriot love : four generations in search of Canada / Michael Ignatieff.,F1033.I32 2009,n
+i6220144x,wstkg,2013-09-17 17:09,4,0,0,4,0,4,b47184024,True patriot love : four generations in search of Canada / Michael Ignatieff.,F1033.I32 2009,n
+i44149505,ustk ,  -  -  ,0,0,0,0,0,0,b32391444,Imperial relations in the age of Laurier  : essays / by H. Blair Neatby [and others] Introd. by Carl Berger.,F1033.I34,n
+i15065169,wstkg,2016-02-06 16:05,10,2,1,9,0,10,b1415139x,Imperial relations in the age of Laurier : essays / by H. Blair Neatby ... [et al.]   introduction by Carl Berger.,F1033.I35,n
+i46746523,kcstk,2013-03-03 20:31,2,1,0,2,0,2,b34214392,Imperial relations in the age of Laurier  : essays / by H. Blair Neatby [and others] Introd. by Carl Berger.,F1033.I5,n
+i15041037,wstkg,2014-07-04 13:36,8,10,0,8,0,10,b14131742,Man of steel : the story of Sir Sandford Fleming / Hugh MacLean.,HE2808.2.F5M3,n
+i4674664x,kcstk,  -  -  ,0,0,0,0,0,0,b14131742,Man of steel : the story of Sir Sandford Fleming / Hugh MacLean.,HE2808.2.F5M3,n
+i25357207,lstkg,2009-09-28 17:35,2,0,0,2,0,2,b21497175,"Documenting Canada : a history of modern Canada in documents / Dave de Brou and Bill Waiser, editors.",KF4481.A2D65 1992,n
+i56204917,ustk ,2014-01-16 17:13,5,0,0,40,0,40,b21497175,"Documenting Canada : a history of modern Canada in documents / Dave de Brou and Bill Waiser, editors.",KF4481.A2D65 1992,n

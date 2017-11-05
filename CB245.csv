@@ -1,0 +1,130 @@
+RECORD #(ITEM),LOCATION,LOUTDATE,TOT CHKOUT,TOT RENEW,YTDCIRC,TOTAL CIRC,I TYPE,Circ,RECORD #(BIBLIO),245,99,IsText
+i33093684,wstkg,2/8/2016 14:43,11,3,0,11,0,11,b25483043,"Great books : my adventures with Homer, Rousseau, Woolf, and other indestructible writers of the Western world / David Denby.",CB245.D44 1996,n
+i71357531,wstkg,12/19/2015 12:05,6,4,1,5,0,6,b56884862,The uniqueness of Western civilization / by Ricardo Duchesne.,CB245.D757 2011,n
+i25179536,wstkg,10/31/2010 16:38,8,3,0,8,0,8,b21357171,"The rebirth of the West : the Americanization of the democratic world, 1945-1958 / Peter Duignan and L.H. Gann.",CB245.D76 1992,n
+i50345357,wstkg,10/11/2015 16:17,7,3,0,7,0,7,b36302934,"Against empire : feminisms, racism, and the West / Zillah Eisenstein.",CB245.E465 2004,n
+i56687382,kcstk,11/23/2007 13:04,2,0,0,2,0,2,b36302934,"Against empire : feminisms, racism, and the West / Zillah Eisenstein.",CB245.E465 2004,n
+i56873530,hstk ,11/4/2008 18:19,5,11,0,5,0,11,b36302934,"Against empire : feminisms, racism, and the West / Zillah Eisenstein.",CB245.E465 2004,n
+i46762000,kcstk,  -  -  ,0,0,0,0,0,0,b34226588,The betrayal of the West / Jacques Ellul   translated by Matthew J. O'Connell.,CB245.E4T7e,n
+i12725766,wstkg,7/26/2005 17:18,2,0,0,2,0,2,b1220755x,The betrayal of the West / Jacques Ellul   translated by Matthew J. O'Connell.,CB245.E513,n
+i27209684,wstkg,3/28/2013 17:56,5,6,0,5,0,6,b23013606,Enduring Western civilization : the construction of the concept of Western civilization and its  others  / edited by Silvia Federici.,CB245.E54 1995,n
+i1273794x,wstkg,8/11/2006 11:41,3,0,0,3,0,3,b12218510,Civilization and society in the West / Carolly Erickson.,CB245.E67,n
+i72366436,kcstk,8/23/2013 16:22,4,3,0,4,0,4,b58061897,Civilization : the West and the rest / Niall Ferguson.,CB245.F37 2011,n
+i25979383,wstkg,6/13/2006 16:40,2,3,0,2,0,3,b21969097,"Myths and politics in western societies : evaluating the crisis of modernity in the United States, Germany, and Great Britain / John Girling.",CB245.G55 1993,n
+i20377344,wstkg,3/23/2006 17:50,2,0,0,2,0,2,b1742723x,The suicide and rebirth of western civilization : a collage of psychohistorical analogies / Marvin Goldwert.,CB245.G575,n
+i15541393,rrdlg,  -  -  ,0,0,0,0,0,0,b14520552,The shaping of Western society  an inquiry approach.,CB245.G6,n
+i43916120,ustk ,  -  -  ,0,0,0,0,0,0,b3217245x,Social history of Western civilization. vol. II : readings from the seventeenth century to the present / [Edited by] Richard M. Golden.,CB245.G61,n
+i62099140,wstkg,3/24/2016 15:11,4,6,0,4,0,6,b47177196,Worlds made by words : scholarship and community in the modern West / Anthony Grafton.,CB245.G65 2009,n
+i15544515,rrdlg,  -  -  ,0,0,0,0,0,0,b14522603,The shaping of Western society  an inquiry approach. Teacher's guide.,CB245.G6t,n
+i62502797,wstkg,  -  -  ,0,0,0,0,0,0,b47566681,Threshold : the crisis of Western culture / Thom Hartmann.,CB245.H324x 2009,n
+i46761998,kcstk,  -  -  ,0,0,0,0,0,0,b34226576,"A short history of Western civilization, / by John B. Harrison and Richard E. Sullivan.",CB245.H3S5 1966,n
+i41908387,hstk ,  -  -  ,0,0,0,0,0,0,b30533727,The Traditions of the Western world.,CB245.H43,n
+i64041062,wstkg,  -  -  ,0,0,0,0,0,0,b49531165,"In the cause of the west : thoughts on the past, present and future of a threatened civilization / by Kenneth H.W. Hilborn.",CB245.H553 2010,n
+i10725957,wstkg,  -  -  ,0,0,0,0,0,0,b10543028,Landmarks of the Western heritage / edited by C. Warren Hollister.,CB245.H65,n
+i10725969,rrdlg,  -  -  ,0,0,0,0,0,0,b10543028,Landmarks of the Western heritage / edited by C. Warren Hollister.,CB245.H65,n
+i10725970,wstkg,  -  -  ,0,0,0,0,0,0,b10543028,Landmarks of the Western heritage / edited by C. Warren Hollister.,CB245.H65,n
+i10725982,rrdlg,  -  -  ,0,0,0,0,0,0,b10543028,Landmarks of the Western heritage / edited by C. Warren Hollister.,CB245.H65,n
+i1554249x,wstkg,  -  -  ,0,0,0,0,0,0,b14521283,The Ancient world to 300 A.D./ edited by Paul J. Alexander.,CB245.I34  v.1,n
+i47815139,hstk ,  -  -  ,0,0,0,0,0,0,b14521283,The Ancient world to 300 A.D./ edited by Paul J. Alexander.,CB245.I34  v.1,n
+i23032340,wstkg,11/8/2005 16:05,4,1,0,4,0,4,b19555817,"The Medieval world, 300-1300 / edited by Norman F. Cantor.",CB245.I34  v.2,n
+i12565003,wstkg,11/20/2008 16:22,7,0,0,7,0,7,b12063101,"Renaissance and reformation, 1300-1648 / edited by G.R. Elton.",CB245.I34  v.3,n
+i13681916,wstkg,3/8/2005 13:16,2,0,0,2,0,2,b12995630,"Renaissance and reformation, 1300-1648 / edited by G.R. Elton.",CB245.I34 1968  v.3,n
+i23756020,wstkg,2/14/2008 16:08,5,8,0,5,0,8,b20153909,"Renaissance and Reformation, 1300-1648 / edited by G. R. Elton.",CB245.I34 1976  v.3,n
+i46332522,kcstk,8/20/2014 14:56,1,1,0,1,0,1,b33894267,The ancient world to 300 A.D.,CB245.I37,n
+i46332984,kcstk,  -  -  ,0,0,0,0,0,0,b33894644,The medieval world : 300-1300,CB245.I37,n
+i46336308,kcstk,8/20/2014 14:56,2,1,0,15,0,15,b33897189,"Renaissance and Reformation, 1300-1648",CB245.I37,n
+i4633631x,kcstk,2/8/2005 11:59,1,1,0,1,0,1,b33897190,"From absolutism to revolution, 1648-1848",CB245.I37,n
+i46336333,kcstk,  -  -  ,0,0,0,0,0,0,b33897207,"The modern world, 1848 to the present",CB245.I37,n
+i46761986,kcstk,8/20/2014 14:56,1,1,0,1,0,1,b34226564,"Ideas and institutions in Western civilization / Norman F. Cantor, general editor.",CB245.I37 1968,n
+i5818109x,wstkg,8/27/2012 15:25,6,3,0,6,0,6,b42659346,Cultural amnesia : necessary memories from history and the arts / Clive James.,CB245.J338 2007,n
+i58086882,wstkg,5/12/2016 16:24,4,3,0,4,0,4,b42603560,Cultural amnesia : notes in the margin of my time / Clive James.,CB245.J339 2007,n
+i36140478,wstkg,3/19/2012 8:06,22,14,0,22,0,22,b27011227,Exploring the modern : patterns of Western culture and civilization / John Jervis.,CB245.J47 1998,n
+i38604498,wstkg,10/24/2006 10:39,9,4,0,9,0,9,b28084111,Transgressing the modern : explorations in the western experience of otherness / John Jervis.,CB245.J48 1999,n
+i48914423,hstk ,8/24/2006 12:51,1,2,0,1,0,2,b28084111,Transgressing the modern : explorations in the western experience of otherness / John Jervis.,CB245.J48 1999,n
+i15541496,wstkg,12/2/2013 19:25,3,0,0,3,0,3,b14520618,Western civilization : mainstream readings & radical critiques.,CB245.K32 1973,n
+i36442173,wstkg,10/20/2013 23:14,4,2,0,4,0,4,b27135639,The elsewhere community / Hugh Kenner.,CB245.K44 1998,n
+i37433131,wstkg,3/7/2011 22:52,2,0,0,2,0,2,b27135639,The elsewhere community / Hugh Kenner.,CB245.K44 1998,n
+i78450469,wovrg,4/16/2015 16:50,3,2,0,3,0,3,b6237820x,"Making Europe : the story of the West / Frank L. Kidner, Maria Bucur, Ralph Mathisen, Sally McKee, Theodore R. Weeks.",CB245.K49 2012,n
+i43960984,ustk ,1/17/2012 13:20,15,32,0,15,0,32,b32215605,"Civilization in the West:   vol. II: since 1555 / Mark Kishlansky, Patrick Geary, Patricia O'Brien.",CB245.K61,n
+i46336357,kcstk,  -  -  ,0,0,0,0,0,0,b33897219,Readings in Western civilization. Selected and edited by George H. Knoles and Rixford K. Snyder,CB245.K6R4 1960,n
+i44182272,ustk ,  -  -  ,0,0,0,0,0,0,b32421436,"Readings in Western civilization, / selected and edited by George H. Knoles [and] Rixford K. Snyder.",CB245.K72,n
+i15541502,wstkg,9/10/2010 16:17,2,0,0,2,0,2,b1452062x,"Readings in Western civilization, selected and edited by George H. Knoles and Rixford K. Snyder.",CB245.K72 1954,n
+i15541514,rrdlg,  -  -  ,0,0,0,0,0,0,b14520631,The North Atlantic civilization.,CB245.K78,n
+i15541526,wstkg,  -  -  ,0,0,0,0,0,0,b14520631,The North Atlantic civilization.,CB245.K78,n
+i26779584,wstkg,11/17/2008 14:20,6,5,0,6,0,6,b22588516,C.S. Lewis for the third millennium : six essays on the abolition of man / Peter Kreeft.,CB245.K785 1994,n
+i27156345,wstkg,1/22/2011 15:18,15,7,0,15,0,15,b22935794,"The westernization of the world : the significance, scope and limits of the drive towards global uniformity / Serge Latouche   translated by Rosemary Morris.",CB245.L3513 1996,n
+i47815188,hovr ,  -  -  ,0,0,0,0,0,0,b33980731,Picture history of Western man.,CB245.L5P5,n
+i46761974,kcstk,3/10/2009 19:03,1,2,0,1,0,2,b34226552,The birth of Europe / [by] Robert S. Lopez.,CB245.L6B5 1967,n
+i44353522,ustk ,8/13/2010 12:59,3,7,0,3,0,7,b3257728x,"Sources of Western civilization, / edited by Daniel D. McGarry [and] Clarence L. Hohl.",CB245.M145,n
+i10647752,wstkg,  -  -  ,1,0,0,1,0,1,b10502634,"Sources of Western civilization / edited by Daniel D. McGarry, Clarence L. Hohl, Jr.",CB245.M26,n
+i10647764,wstkg,  -  -  ,0,0,0,0,0,0,b10502634,"Sources of Western civilization / edited by Daniel D. McGarry, Clarence L. Hohl, Jr.",CB245.M26,n
+i35649240,wstkg,  -  -  ,0,0,0,0,0,0,b10502634,"Sources of Western civilization / edited by Daniel D. McGarry, Clarence L. Hohl, Jr.",CB245.M26,n
+i35649318,wstkg,  -  -  ,0,0,0,0,0,0,b10502634,"Sources of Western civilization / edited by Daniel D. McGarry, Clarence L. Hohl, Jr.",CB245.M26,n
+i5628908x,kcstk,4/14/2009 21:19,0,0,0,9,0,9,b41308505,The Western humanities / Roy T. Matthews & F. DeWitt Platt.,CB245.M375W4 2004,n
+i62516826,kcstk,5/3/2014 11:39,3,1,0,13,0,13,b47570003,The Western humanities / Roy T. Matthews & F. DeWitt Platt.,CB245.M375W4 2008,n
+i63468700,kcstk,3/7/2017 11:20,4,3,1,23,0,23,b48933053,"The Western humanities / Roy T. Matthews, F. Dewitt Platt, Thomas F.X. Noble.",CB245.M375W4 2011,n
+i78088987,krs2h,9/26/2016 17:22,1,4,3,8,6,9,b62067771,"Experience humanities / Roy T. Matthews & F. DeWitt Platt, Michigan State University  Thomas F.X. Noble, The University of Notre Dame.",CB245.M375W4 2014,y
+i46336515,kcstk,  -  -  ,0,0,0,0,0,0,b33897372,"Sources of Western civilization, edited by Daniel D. McGarry [and] Clarence L. Hohl, Jr.",CB245.M3S6 1962,n
+i76471512,hstk ,7/26/2016 20:22,17,18,3,14,0,18,b60968163,"The darker side of Western modernity : global futures, decolonial options / Walter D. Mignolo.",CB245.M495 2011,n
+i19788812,wstkg,11/17/2003 14:29,5,0,0,5,0,5,b16899374,The mimetic tradition of reform in the West / Karl F. Morrison.,CB245.M64,n
+i41906822,hstk ,  -  -  ,0,0,0,0,0,0,b30532371,The mimetic tradition of reform in the West / Karl F. Morrison. --,CB245.M64 1982,n
+i6156543x,wres7,9/8/2016 13:50,1,5,1,20,2,21,b46194277,"Imperial ends : the decay, collapse, and revival of empires / Alexander J. Motyl.",CB245.M66 2001,n
+i46336369,kcstk,2/8/2006 23:52,1,2,0,1,0,2,b33897220,"A history of Western civilization [by] Thomas P. Neill, Daniel D. McGarry and Clarence L. Hohl, Jr.",CB245.N39 1959,n
+i4061959x,wstkg,11/8/2006 19:30,4,1,0,9,0,9,b29770993,Perspectives from the past : primary sources in Western civilizations / James M. Brophy ... [et al.].,CB245.P45 1998,n
+i47293093,wstkg,1/18/2007 15:02,10,8,0,10,0,10,b3467732x,Perspectives from the past : primary sources in Western civilizations / James M. Brophy ... [et al.].,CB245.P45 2002,n
+i47297451,wstkg,4/18/2007 15:24,10,14,0,10,0,14,b3467732x,Perspectives from the past : primary sources in Western civilizations / James M. Brophy ... [et al.].,CB245.P45 2002,n
+i47297463,wstkg,10/30/2006 10:18,9,9,0,9,0,9,b3467732x,Perspectives from the past : primary sources in Western civilizations / James M. Brophy ... [et al.].,CB245.P45 2002,n
+i47437807,kcstk,10/23/2006 12:41,1,0,0,49,0,49,b3467732x,Perspectives from the past : primary sources in Western civilizations / James M. Brophy ... [et al.].,CB245.P45 2002,n
+i43915140,ustk ,11/26/2014 15:36,2,2,0,2,0,2,b3217150x,"Sources of the Western tradition, vol. II : From the Renaissance to the present",CB245.P46,n
+i43961198,ustk ,4/25/2003 18:34,4,4,0,4,0,4,b32215812,"Perspectives from the past  : primary sources in Western civilization, vol. 2:  From early modern through contemporary times / [edited by] James M. Brophy [et al.]",CB245.P46 1998,n
+i44582663,ustk ,6/16/2014 18:47,12,13,0,12,0,13,b32687448,"Sources of the Western tradition / [edited by] Marvin Perry, Joseph R. Peden, Theodore H. Von Laue.",CB245.P46 2003,n
+i47146825,kcstk,8/20/2014 14:56,5,1,0,5,0,5,b34547988,Perspectives from the past : primary sources in Western civilizations / James M. Brophy ... [et al.].,CB245.P47,n
+i51521908,kcstk,2/1/2011 15:39,8,7,0,21,0,21,b37354620,Perspectives from the past : primary sources in Western civilizations / James M. Brophy ... [et al.].,CB245.P47 2005,n
+i56204838,ustk ,2/18/2007 16:28,0,0,0,8,0,8,b37354620,Perspectives from the past : primary sources in Western civilizations / James M. Brophy ... [et al.].,CB245.P47 2005,n
+i5620484x,ustk ,3/6/2007 10:05,0,0,0,5,0,5,b37354620,Perspectives from the past : primary sources in Western civilizations / James M. Brophy ... [et al.].,CB245.P47 2005,n
+i71306067,kcstk,5/3/2014 11:39,1,1,0,1,0,1,b5684900x,Readings in the Western humanities / edited by Roy T. Matthews and F. DeWitt Platt.,CB245.R39 2010,n
+i71306079,kcstk,5/3/2014 11:39,1,1,0,1,0,1,b5684900x,Readings in the Western humanities / edited by Roy T. Matthews and F. DeWitt Platt.,CB245.R39 2010,n
+i10273219,wstkg,  -  -  ,0,0,0,0,0,0,b10201567,"Overview of western civilization : a guide / William F. Ricketson, Jean C. Ricketson.",CB245.R523 1984,n
+i22546893,wstkg,5/4/2007 13:52,3,1,0,3,0,3,b19152565,The triumph of the West / J.M. Roberts.,CB245.R55 1985,n
+i1211294x,rrdlg,  -  -  ,0,0,0,0,0,0,b11715194,"Imago Europae : Geschichte u. Kultur d. Abendlandes / Werner Ross, Toni Schneiders   Gesamtred. Wolf Stadler.",CB245.R66,n
+i34179070,wstkg,8/23/2011 14:53,5,2,0,5,0,5,b26132837,Metaphors and action schemes : some themes in intellectual history / Robert L. Schwarz.,CB245.S325 1997,n
+i1350020x,wstkg,  -  -  ,0,0,0,0,0,0,b12841717,"A world split apart : commencement address delivered at Harvard University, June 8, 1978 / Aleksandr I. Solzhenitsyn   [translated from the Russian by Irina Ilovayskaya Alberti].",CB245.S56913 1978,n
+i41717703,hstk ,8/13/2010 12:59,2,4,0,2,0,4,b30367530,Sources of the West : readings for Western civilization / Mark A. Kishlansky   with the assistance of Victor Stater.,CB245.S578 1998,n
+i41717715,hstk ,1/12/2012 13:00,6,7,0,6,0,7,b30367530,Sources of the West : readings for Western civilization / Mark A. Kishlansky   with the assistance of Victor Stater.,CB245.S578 1998,n
+i34320830,wstkg,10/31/2012 16:46,17,11,0,30,0,30,b26229407,"Sources of the Western tradition / [edited by] Marvin Perry, Joseph R. Peden, Theodore H. Von Laue   George W. Bock, editorial associate.",CB245.S58 1995,n
+i38013678,wstkg,10/9/2014 12:35,19,16,0,19,0,19,b27819966,"Sources of the Western tradition / [edited by] Marvin Perry, Joseph R. Peden, Theodore H. Von Laue.",CB245.S58 1999,n
+i58166373,kcstk,4/5/2013 17:13,11,4,0,17,0,17,b42635378,"Sources of the Western tradition / [edited by] Marvin Perry, Joseph R. Peden, Theodore H. Von Laue.",CB245.S58 2006,n
+i79724322,wstkg,6/12/2016 17:00,5,6,0,5,0,6,b6365197x,"Sources of the Western tradition / [edited by] Marvin Perry, Joseph R. Peden, Theodore H. Von Laue.",CB245.S58 2008,n
+i22592556,wstkg,4/2/2003 17:20,2,1,0,2,0,2,b19189990,The making of the Western mind : a short survey of European culture / by F. Melian Stawell and F. S. Marvin.,CB245.S72 1923,n
+i48496510,wstkg,9/25/2007 15:52,2,0,0,2,0,2,b35062137,Western civilization in world history / Peter N. Stearns.,CB245.S743 2003,n
+i15541599,wstkg,4/2/2003 17:21,3,4,0,3,0,4,b14520709,"The rise and development of Western civilization: the emergence of man to the present [by] John L. Stipp, C. Warren Hollister [and] Allen W. Dirrim. With the assistance of Harold L. Bauman.",CB245.S753,n
+i2317898x,wstkg,3/7/2011 22:53,3,0,0,3,0,3,b19681562,A Survey of Western civilization / Richard D. Goff ... [et al.].,CB245.S95 1987,n
+i23178991,wstkg,4/2/2003 17:20,2,3,0,2,0,3,b19681562,A Survey of Western civilization / Richard D. Goff ... [et al.].,CB245.S95 1987,n
+i10283845,rrdlg,  -  -  ,0,0,0,0,0,0,b10211147,From Sarajevo to Potsdam / A. J. P. Taylor.,CB245.T38 1966,n
+i81366978,hstk ,  -  -  ,0,0,0,0,0,0,b65204542,"Western empires, Christianity, and the inequalities between the West and the Rest, 1500-2010 / Sampie Terreblanche.",CB245.T47 2014,n
+i47267987,hstk ,3/19/2014 14:31,6,2,0,6,0,6,b34660495,"Thresholds of western culture : identity, postcoloniality, transnationalism / edited by John Burt Foster, Jr. and Wayne Jeffrey Froman.",CB245.T533 2002,n
+i41983464,hstk ,1/19/2005 11:09,2,1,0,2,0,2,b30599751,"Great issues in Western civilization / edited by Brian Tierney, Donald Kagan, and L. Pearce Williams   consulting editor, Eugene Rice.",CB245.T54 1976,n
+i41983476,hstk ,  -  -  ,0,0,0,0,0,0,b30599751,"Great issues in Western civilization / edited by Brian Tierney, Donald Kagan, and L. Pearce Williams   consulting editor, Eugene Rice.",CB245.T54 1976,n
+i15541617,wstkg,4/30/2008 14:22,4,0,0,4,0,4,b14520722,"Great issues in Western civilization, since 1500. Edited by Brian Tierney, Donald Kagan and L. Pearce Williams.",CB245.T55,n
+i82059834,kcstk,  -  -  ,0,0,0,0,0,0,b65705105,Twelve great books that changed the university : and why christians should care / edited by Steve Wilkens and Don Thorsen.,CB245.T84 2014,n
+i35402581,wstkg,3/7/2011 22:52,2,0,0,2,0,2,b26731393,Tuiavii's way : a south sea chief's comments on western society / by Chief Tuiavii and Erich Scheurmann   adapted and translated into English by Peter C. Cavelti.,CB245.T8513 1997,n
+i8091181x,wstkg,  -  -  ,0,0,0,0,0,0,b64761484,European intellectual history : from Rousseau to Nietzsche / Frank M. Turner   edited by Richard A. Lofthouse.,CB245.T88 2014,n
+i84767807,kcstk,  -  -  ,0,0,0,0,0,0,b20146437,Nineteenth-century Europe : liberalism and its critics / edited by Jan Goldstein and John W. Boyer.,CB245.U64  v.8 1988,n
+i39937276,wstkg,3/25/2011 14:53,13,8,0,13,0,13,b29349126,Occidentalism : modernity and subjectivity / Couze Venn.,CB245.V46 2000,n
+i56904265,hstk ,2/21/2008 17:59,1,4,0,1,0,4,b29349126,Occidentalism : modernity and subjectivity / Couze Venn.,CB245.V46 2000,n
+i34933761,wstkg,11/3/2012 13:03,9,6,0,9,0,9,b2654510x,The founding legend of western civilization : from Virgil to Vietnam / Richard Waswo.,CB245.W28 1997,n
+i73521656,wstkg,10/20/2013 23:14,3,4,0,3,0,4,b59372278,"From Plato to postmodernism : the story of Western culture through philosophy, literature and art / Christopher Watkin.",CB245.W294 2011,n
+i15541861,wstkg,11/1/2003 15:47,2,1,0,2,0,2,b14520758,The Great Frontier.,CB245.W4,n
+i15541873,wstkg,12/20/2010 20:32,3,2,0,3,0,3,b14520758,The Great Frontier.,CB245.W4,n
+i15541885,rrdlg,  -  -  ,0,0,0,0,0,0,b1452076x,"The Western tradition, from the ancient world to the atomic age  a book of readings.",CB245.W44,n
+i50287539,hstk ,4/28/2008 20:15,1,2,0,1,0,2,b36271329,The Western tradition : a book of readings from the ancient world to the atomic age.,CB245.W44,n
+i21164873,wstkg,12/9/2003 8:42,3,0,0,9,0,9,b18063603,Western civilization since 1500 / Joseph R. Strayer ... [et al.].,CB245.W477,n
+i15541897,rrdlg,  -  -  ,0,0,0,0,0,0,b14520771,"The ancient world, 800 B.C.-A.D.800.",CB245.W48  v.1,n
+i15541903,rrdlg,  -  -  ,0,0,0,0,0,0,b14520783,"The medieval world and its transformation, 800-1650.",CB245.W48  v.2,n
+i15541915,rrdlg,  -  -  ,0,0,0,0,0,0,b14520795,"The modern world, 1650-1850 [by] Peter H. Amann.",CB245.W48  v.3,n
+i15541927,rrdlg,  -  -  ,0,0,0,0,0,0,b14520801,The contemporary world since 1850.,CB245.W48  v.4,n
+i27191783,wstkg,1/13/2016 9:16,4,2,0,9,0,9,b2302947x,"Western civilization : sources, images, and interpretations / edited by Dennis Sherman   [advisory editor, Raymond Grew].",CB245.W4835 1995,n
+i46507899,kcstk,8/20/2014 14:56,1,1,0,1,0,1,b34019376,"Western civilizations : their history and their culture / Robert E. Lerner, Standish Meacham, Edward McNall Burns.",CB245.W5,n
+i46507905,kcstk,8/20/2014 14:56,3,3,0,3,0,3,b34019376,"Western civilizations : their history and their culture / Robert E. Lerner, Standish Meacham, Edward McNall Burns.",CB245.W5,n
+i62802768,wstkg,4/29/2010 9:56,4,0,0,4,0,4,b47823409,5 cities that ruled the world / Douglas Wilson.,CB245.W554 2009,n
+i46336370,kcstk,  -  -  ,0,0,0,0,0,0,b33897232,The emergence of European civilization : from the Middle Ages to the opening of the nineteenth century,CB245.W6E5 1962,n

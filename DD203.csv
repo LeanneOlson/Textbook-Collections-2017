@@ -1,0 +1,105 @@
+RECORD #(ITEM),LOCATION,LOUTDATE,TOT CHKOUT,TOT RENEW,YTDCIRC,TOTAL CIRC,I TYPE,Circ,RECORD #(BIBLIO),245,99,IsText
+i46138699,kcstk,2005-10-26 16:14,1,0,0,1,0,1,b33747891,Bismarck and the Hohenzollern candidature for the Spanish throne. The documents in the German Diplomatic Archives. Ed. with an introd. by Georges Bonnin  trans. by Dr. Isabella M. Massey  with a foreword by Dr. G.P. Gouch.,DD201.B6B5,no
+i24291869,wstkg,2005-01-20 23:08,14,5,0,14,0,14,b20600203,The Unification of Germany / [compiled by] Michael Gorman.,DD201.U55 1989,no
+i73253091,wstkg,2015-03-02 15:39,2,1,0,2,0,2,b59123989,The Unification of Germany / [compiled by] Michael Gorman.,DD201.U55 1989,no
+i11969179,wstkg,  -  -  ,2,0,0,2,0,2,b1158709x,Vorm_§rz und Revolution : 1840-1849 / hrsg. von Hans Fenske.,DD201.V67,no
+i41800205,hstk ,  -  -  ,0,0,0,0,0,0,b30439346,History of the German struggle for liberty.,DD203.B58,no
+i34928169,wstkg,2016-03-25 17:41,30,16,0,30,0,30,b26540848,"The long nineteenth century : a history of Germany, 1780-1918 / David Blackbourn.",DD203.B59 1998,no
+i51562674,wstkg,2016-09-15 16:14,18,10,2,28,0,28,b37279841,"History of Germany, 1780-1918 : the long nineteenth century / David Blackbourn.",DD203.B6 2003,yes
+i73127358,wstkg,2016-09-15 14:24,12,24,2,10,0,24,b37279841,"History of Germany, 1780-1918 : the long nineteenth century / David Blackbourn.",DD203.B6 2003,yes
+i43937329,ustk ,2007-01-12 12:56,3,0,0,3,0,3,b32192459,"The long nineteenth century : a history of Germany, 1780-19l8",DD203.B62,no
+i42241418,hstk ,2006-02-12 21:45,1,0,0,1,0,1,b30830035,"The formation of the first German nation-state, 1800-1871 / John Breuilly.",DD203.B76,no
+i27173434,wstkg,2009-02-19 16:12,21,8,0,21,0,21,b22963121,"The formation of the first German nation-state, 1800-1871 / John Breuilly.",DD203.B76 1996,no
+i46657459,kcstk,2014-01-24 14:35,14,4,0,14,0,14,b34140840,"A history of Germany, 1815-1985 / William Carr.",DD203.C3H5 1987,no
+i58033920,wstkg,2011-04-01 13:59,10,4,0,10,0,10,b42570268,The Thirty Years' War and German memory in the nineteenth century / Kevin Cramer.,DD203.C74 2007,no
+i61588921,wstkg,2016-12-04 17:42,8,5,1,7,0,8,b46331219,"Liberal imperialism in Germany : expansionism and nationalism, 1848-1884 / Matthew P. Fitzpatrick.",DD203.F58 2008,no
+i41626527,hstk ,  -  -  ,0,0,0,0,0,0,b3028658x,"Questions on German history : ideas, forces, decisions from 1800 to the present : historical exhibition in the Berlin Reichstag : catalogue.",DD203.F7213,no
+i34294776,wstkg,2015-05-04 13:47,31,25,0,31,0,31,b26212456,German history since 1800 / edited by Mary Fulbrook.,DD203.G36 1997,no
+i34648197,wstkg,2015-05-04 13:47,37,24,1,36,0,37,b26388637,The question of German unification : 1806-1996 / Imanuel Geiss   translated by Fred Bridgham.,DD203.G4513 1997,no
+i49127652,wstkg,2015-05-04 13:47,16,11,1,15,0,16,b35269959,"Germany, 1800-1870 / edited by Jonathan Sperber.",DD203.G473 2004,no
+i68060014,wstkg,2014-01-11 13:11,6,4,1,5,0,6,b53709470,"Nationalism in Germany, 1848-1866 : revolutionary nation / Mark Hewitson.",DD203.H49 2010,no
+i70267121,hstk ,  -  -  ,0,0,0,0,0,0,b53709470,"Nationalism in Germany, 1848-1866 : revolutionary nation / Mark Hewitson.",DD203.H49 2010,no
+i70279585,kcstk,2014-01-24 14:34,2,3,0,2,0,3,b53709470,"Nationalism in Germany, 1848-1866 : revolutionary nation / Mark Hewitson.",DD203.H49 2010,no
+i55152582,ustk ,2008-02-27 8:03,5,6,0,5,0,6,b38618874,"A history of modern Germany, 1800-2000 / Martin Kitchen.",DD203.K62 2006,no
+i56704793,wstkg,2015-02-12 12:23,12,12,0,12,0,12,b38618874,"A history of modern Germany, 1800-2000 / Martin Kitchen.",DD203.K62 2006,no
+i15348623,wstkg,2013-05-29 17:43,23,20,0,23,0,23,b14369503,The history of Germany since 1789. Translated from the German by Marian Jackson.,DD203.M35,no
+i40221039,wstkg,2015-02-12 12:23,31,19,1,30,0,31,b29522754,"Nineteenth-century Germany : politics, culture, and society 1780-1918 / edited by John Breuilly.",DD203.N54 2001,no
+i42305494,hstk ,2012-02-17 13:02,4,4,0,4,0,4,b30886636,"Germany from Napoleon to Bismarck, 1800-1866 / Thomas Nipperdey   translated by Daniel Nolan.",DD203.N5513,no
+i27192660,wstkg,2016-11-29 17:53,50,26,2,50,0,50,b2301880x,"Germany from Napoleon to Bismarck, 1800-1866 / Thomas Nipperdey   translated by Daniel Nolan.",DD203.N5513 1996,no
+i11482369,wstkg,2010-08-13 12:58,5,1,0,5,0,5,b11178395,"Gesellschaft, Kultur, Theorie : gesammelte Aufs_§tze zur neueren Geschichte / von Thomas Nipperdey.",DD203.N56,no
+i43917884,ustk ,2013-04-05 14:42,6,0,0,6,0,6,b32174123,Germany from Napoleon to Bismarck : 1800-1866 / Translated by Daniel Nolan.,DD203.N71,no
+i41816353,hstk ,2007-10-13 14:50,1,2,0,1,0,2,b30453240,"Modern Germany, its history and civilization.",DD203.P5,no
+i4613931x,kcstk,2016-03-31 18:41,6,3,0,6,0,6,b3374841x,"Modern Germany, its history and civilization.",DD203.P5M6,no
+i47050226,kcstk,2014-01-24 14:35,6,3,0,6,0,6,b34460196,Modern Germany : its history and civilization / Koppel s. Pinson   chapter XXIII by Klaus Epstein.,DD203.P5M6 1989,no
+i22062890,wstkg,2008-11-10 18:23,4,0,0,4,0,4,b18742981,Modern Germany  its history and civilization / Koppel S. Pinson   Chapter 23 by Klaus Epstein.,DD203.P65 1966,no
+i21239368,wstkg,2008-11-10 18:23,7,0,0,7,0,7,b18124033,Modern Germany : its history and civilization.,DD203.P65 1969,no
+i84771793,hhhh ,  -  -  ,0,0,0,0,0,0,b68527767,"The discourse strategies of imperialist writing : the German colonial idea and Africa, 1848-1945 / by Felicity Rash.",DD203.R36 2016,no
+i43075769,wstkg,2015-02-12 12:23,28,16,0,28,0,28,b31562863,Germany in the nineteenth century : history and literature / Eda Sagarra.,DD203.S22 2001,no
+i19832023,wstkg,2015-03-04 15:52,8,4,0,9,0,9,b16937107,An introduction to nineteenth century Germany / Eda Sagarra.,DD203.S23,no
+i42608387,hstk ,  -  -  ,0,0,0,0,0,0,b3115072x,An introduction to nineteenth century Germany / Eda Sagarra. --,DD203.S23,no
+i15348714,wstkg,  -  -  ,0,0,0,0,0,0,b14369540,Deutsche Geschichte im neunzehnten jahrhundert.,DD203.S33,no
+i15348726,wstkg,  -  -  ,0,0,0,0,0,0,b14369540,Deutsche Geschichte im neunzehnten jahrhundert.,DD203.S33,no
+i15348738,wstkg,  -  -  ,0,0,0,0,0,0,b14369540,Deutsche Geschichte im neunzehnten jahrhundert.,DD203.S33,no
+i1534874x,wstkg,  -  -  ,0,0,0,0,0,0,b14369540,Deutsche Geschichte im neunzehnten jahrhundert.,DD203.S33,no
+i41628780,hstk ,2007-10-13 14:49,1,2,0,1,0,2,b30288666,"German history, 1770-1866 / by James J. Sheehan. --",DD203.S48,no
+i44171110,ustk ,  -  -  ,0,0,0,0,0,0,b32411157,"German history, 1770-1866 / by James J. Sheehan.",DD203.S48,no
+i24372316,wstkg,2016-03-25 17:42,13,13,0,13,0,13,b20660820,"German history, 1770-1866 / by James J. Sheehan.",DD203.S48 1989,no
+i41960683,hstk ,2007-10-13 14:49,1,2,0,1,0,2,b30579867,"The democratic movement in Germany, 1789-1914 / by John L. Snell   edited and completed by Hans A. Schmitt.",DD203.S63,no
+i44171031,ustk ,2007-11-26 13:23,2,2,0,2,0,2,b3241108x,The course of German history : a survey of the development of Germany since 1815 / by A. J. P. Taylor.,DD203.T23,no
+i15348799,wstkg,2011-10-14 14:51,5,2,0,5,0,5,b14369564,The course of German history : a survey of the development of Germany since 1815.,DD203.T23 1962,no
+i15348805,wstkg,2005-10-05 13:12,6,2,0,6,0,6,b14369576,The course of German history  a survey of the development of Germany since 1815. With a new preface (1961).,DD203.T23 1962a,no
+i15348817,wstkg,2012-03-13 19:30,11,4,0,11,0,11,b14369576,The course of German history  a survey of the development of Germany since 1815. With a new preface (1961).,DD203.T23 1962a,no
+i15348829,wstkg,2014-12-15 12:12,14,12,0,14,0,14,b14369576,The course of German history  a survey of the development of Germany since 1815. With a new preface (1961).,DD203.T23 1962a,no
+i42621161,hstk ,2007-03-04 11:33,1,2,0,1,0,2,b31162083,"The course of German history, a survey of the development of Germany since 1815.",DD203.T3,no
+i46139473,kcstk,2010-03-30 12:22,4,5,0,4,0,5,b33748561,The course of German history : a survey of the development of Germany since 1815 / by A. J. P. Taylor.,DD203.T3C6,no
+i46139497,kcstk,2016-03-31 18:41,11,3,0,11,0,11,b33748573,The course of German history : a survey of the development of Germany since 1815 / by A. J. P. Taylor.,DD203.T3C6 1962,no
+i47549841,wstkg,2015-02-12 12:24,17,13,0,17,0,17,b34852669,A history of modern Germany since 1815 / Frank B. Tipton.,DD203.T56 2003,no
+i11774472,wstkg,2016-10-23 16:33,8,1,1,7,0,8,b11431490,History of Germany in the nineteenth century : selections from the translation of Eden and Cedar Paul / Heinrich von Treitschke   edited and with an introd. by Gordon A. Craig.,DD203.T78213,no
+i41813054,hstk ,2016-10-16 20:59,3,2,2,1,0,3,b30451206,History of Germany in the nineteenth century : selections from the translation of Eden and Cedar Paul / Heinrich von Treitschke   edited and with an introd. by Gordon A. Craig. --,DD203.T78213,no
+i81950093,wstkg,2016-04-07 11:02,1,4,0,1,0,4,b66015431,Germany since 1789 : a nation forged and renewed / David G. Williamson.,DD203.W48 2016,no
+i50811642,wstkg,2016-10-23 16:33,11,13,1,10,0,13,b36550000,Germany / Stefan Berger.,DD204.B47 2004,no
+i53020704,ustk ,2009-02-04 18:08,1,2,0,1,0,2,b36550000,Germany / Stefan Berger.,DD204.B47 2004,no
+i3440465x,wstkg,2010-02-22 16:30,15,7,0,15,0,15,b26270572,The search for normality : national identity and historical consciousness in Germany since 1800 / Stefan Berger.,DD204.B475 1997,no
+i41626266,hstk ,  -  -  ,0,0,0,0,0,0,b30286335,"Between reform, reaction, and resistance : studies in the history of German conservatism from 1789 to 1945 / edited by Larry Eugene Jones and James Retallack.",DD204.B48,no
+i26249170,wstkg,2016-10-23 18:50,20,10,1,19,0,20,b22163165,"Between reform, reaction, and resistance : studies in the history of German conservatism from 1789 to 1945 / edited by Larry Eugene Jones and James Retallack.",DD204.B48 1993,no
+i1605099x,wstkg,2016-11-30 17:27,28,22,2,27,0,28,b1490780x,The peculiarities of German history : bourgeois society and politics in nineteenth-century Germany / by David Blackbourn and Geoff Eley.,DD204.B5213 1984,no
+i41773615,hstk ,2016-10-16 20:59,11,6,2,9,0,11,b30416802,The peculiarities of German history : bourgeois society and politics in nineteenth-century Germany / David Blackbourn and Geoff Eley.,DD204.B5213 1984,no
+i23283865,wstkg,2008-07-09 13:37,3,5,0,3,0,5,b19774229,Populists and patricians : essays in modern German history / David Blackbourn.,DD204.B53 1987,no
+i36396801,wstkg,2015-02-12 12:23,15,10,0,15,0,15,b27108569,The Cambridge companion to modern German culture / edited by Eva Kolinsky and Wilfried van der Will.,DD204.C36 1998,no
+i71402664,wstkg,2015-03-02 12:07,3,3,0,3,0,3,b56926790,"Ultranationalism in German-Japanese relations, 1930-45 : from Wenneker to Sasakawa / by John W.M. Chapman.",DD204.C436 2011,no
+i34511398,wstkg,2014-10-15 19:15,35,26,1,34,0,35,b26321294,Rereading German history : from unification to reunification 1800-1996 / Richard J. Evans.,DD204.E877 1997,no
+i23776936,wstkg,2014-10-15 19:14,10,12,0,10,0,12,b20171924,Rethinking German history : nineteenth-century Germany and the origins of the Third Reich / Richard J. Evans.,DD204.E88 1987,no
+i46471091,kcstk,2016-03-31 18:41,4,3,0,4,0,4,b33988857,Rethinking German history : nineteenth-century Germany and the origins of the Third Reich / Richard J. Evans,DD204.E9R4,no
+i35750194,wstkg,2013-03-10 21:51,11,14,0,11,0,14,b26843201,Intellectuals and the German nation : collective identity in an axial age / Bernhard Giesen   translated by Nicholas Levis and Amos Weisz.,DD204.G5413 1998,no
+i40552536,wstkg,2016-02-09 11:44,18,10,0,18,0,18,b29702586,Fatherlands : state-building and nationhood in nineteenth-century Germany / Abigail Green.,DD204.G692 2001,no
+i23116092,wstkg,2012-02-15 15:30,8,1,0,8,0,8,b19628870,"The German public mind in the nineteenth century  a social history of German political sentiments, aspirations and indeas / by Frederick Hertz. Edited by Frank Eyck.",DD204.H47 1975,no
+i42509841,hstk ,2008-03-14 17:14,7,2,0,7,0,7,b31070905,"Nationalism and society : Germany, 1800-1945 / Michael Hughes.",DD204.H84,no
+i23714426,wstkg,2015-01-09 16:19,27,23,0,27,0,27,b20119379,Nationalism and society : Germany 1800-1945 / Michael Hughes.,DD204.H94 1988,no
+i42529840,hstk ,2007-10-13 14:49,2,4,0,2,0,4,b31088223,In search of a liberal Germany : studies in the history of German liberalism from 1789 to the present / edited by Konrad H. Jarausch and Larry Eugene Jones.,DD204.I5,no
+i24703011,wstkg,2014-04-22 9:14,7,1,0,7,0,7,b20966404,In search of a liberal Germany : studies in the history of German liberalism from 1789 to the present / edited by Konrad H. Jarausch and Larry Eugene Jones.,DD204.I5 1990,no
+i42222539,hstk ,  -  -  ,0,0,0,0,0,0,b30813992,"The European powers and the German question, 1848-71, with special reference to England and Russia.",DD204.M6,no
+i46139023,kcstk,2009-02-09 9:44,4,3,0,4,0,4,b33748172,"The European powers and the German question, 1848-71, with special reference to England and Russia.",DD204.M6E8,no
+i15349068,wstkg,2008-11-10 18:23,12,2,0,12,0,12,b14369631,"The European powers and the German question, 1847-71, with special reference to England and Russia.",DD204.M8,no
+i23188261,wstkg,2011-02-14 16:19,15,2,1,14,0,15,b19690046,Nation-building in Central Europe / edited by Hagen Schulze.,DD204.N38 1987,no
+i24295760,wstkg,2009-09-22 13:06,6,2,0,6,0,6,b20603952,Nineteenth-century Germany : a symposium / edited by Modris Eksteins and Hildegard Hammerschmidt.,DD204.N56 1983,no
+i39969630,wstkg,2015-03-27 22:18,9,11,0,9,0,11,b29366835,"The problem of revolution in Germany, 1789-1989 / edited by Reinhard R_ºrup.",DD204.P76 2000,no
+i23129724,wstkg,2011-03-12 14:47,6,3,0,6,0,6,b1964064x,"Germany, 1789-1919 : a political history / Agatha Ramm.",DD204.R3,no
+i23129736,wstkg,2014-03-23 11:24,5,1,0,5,0,5,b1964064x,"Germany, 1789-1919 : a political history / Agatha Ramm.",DD204.R3,no
+i41665594,hstk ,  -  -  ,0,0,0,0,0,0,b30321724,"Germany, 1789-1919:  a political history.",DD204.R3,no
+i20404207,wstkg,2015-03-27 22:18,7,5,0,7,0,7,b17452375,"Germany, 1789-1919 : a political history / Agatha Ramm.",DD204.R3 1981,no
+i60332712,wstkg,2015-09-10 13:18,1,1,0,1,0,1,b44574290,A single communal faith? : the German Right from Conservatism to National Socialism / Thomas Rohkr_§mer.,DD204.R64 2007,no
+i41911787,hstk ,2012-01-17 15:30,5,3,0,5,0,5,b30536649,"The course of German nationalism : from Frederick the Great to Bismarck, 1763-1867 / Hagen Schulze   translated by Sarah Hanbury-Tenison.",DD204.S3413,no
+i24934185,wstkg,2016-02-27 17:21,26,17,1,28,0,28,b21152858,"The course of German nationalism : from Frederick the Great to Bismarck, 1763-1867 / Hagen Schulze   translated by Sarah Hanbury-Tenison.",DD204.S3413 1991,no
+i13462842,wstkg,2011-08-26 15:28,13,9,0,13,0,13,b12807771,German liberalism in the nineteenth century / James J. Sheehan.,DD204.S53,no
+i41631699,hstk ,2016-10-16 20:59,3,0,2,1,0,3,b3029079x,German liberalism in the nineteenth century / James J. Sheehan. --,DD204.S53,no
+i60919310,wstkg,2015-08-24 15:42,12,5,1,11,0,12,b45370928,"The continuities of German history : nation, religion, and race across the long nineteenth century / Helmut Walser Smith.",DD204.S56 2008,no
+i42126496,hstk ,2016-10-16 20:59,6,0,2,4,0,6,b30729415,"German nationalism and religious conflict : culture, ideology, politics, 1870-1914 / Helmut Walser Smith.",DD204.S57,no
+i26803744,wstkg,2015-08-20 14:30,15,19,0,15,0,19,b22610935,"German nationalism and religious conflict : culture, ideology, politics, 1870-1914 / Helmut Walser Smith.",DD204.S57 1995,no
+i24995654,wstkg,2012-01-17 15:29,13,12,0,13,0,13,b21207203,"Politics and the sciences of culture in Germany, 1840-1920 / Woodruff D. Smith.",DD204.S58 1991,no
+i27391176,wstkg,  -  -  ,0,0,0,0,0,0,b23244045,"Rudolf von Gneist, 1816-1895 : ein politischer Jurist in der Bismarckzeit / Erich J. Hahn.",DD205.G64H34 1995,no
+i27391188,rrdlg,  -  -  ,0,0,0,0,0,0,b23244045,"Rudolf von Gneist, 1816-1895 : ein politischer Jurist in der Bismarckzeit / Erich J. Hahn.",DD205.G64H34 1995,no
+i42079214,hstk ,  -  -  ,0,0,0,0,0,0,b30686544,Der Parlamentarier Eduard Lasker und die parlamentarische Stilentwicklung der Jahre 1867-1884 : ein Beitrag zur Geistesgeschichte des politischen Stils in Deutschland.,DD205.L33D5,no
+i15349214,wstkg,2011-01-18 8:59,1,0,0,1,0,1,b14369746,"Arnold Ruge, als Politiker und politischer Schriftsteller, ein Beitrag zur deutschen Geschichte des 19. Jahrhunderts.",DD205.R8N4,no
+i20119318,wstkg,2012-10-12 21:04,7,6,0,7,0,7,b17196619,Windthorst : a political biography / by Margaret Lavinia Anderson.,DD205.W4A83,no
+i42535864,hstk ,  -  -  ,0,0,0,0,0,0,b31093644,Windthorst : a political biography / by Margaret Lavinia Anderson. --,DD205.W4A83,no
+i47029948,kcstk,2014-02-27 11:27,15,7,0,15,0,15,b14177997,"A history of Germany, 1815-1945 / William Carr.",DD232.C3 1979,no

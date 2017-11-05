@@ -1,0 +1,120 @@
+RECORD #(ITEM),LOCATION,LOUTDATE,TOT CHKOUT,TOT RENEW,YTDCIRC,TOTAL CIRC,I TYPE,Circ,RECORD #(BIBLIO),245,99,IsText
+i47718456,kcstk,2017-01-10 10:43,59,34,3,56,0,59,b33153334,"The legacy of school for Aboriginal people : education, oppression, and emancipation / Bernard Schissel & Terry Wotherspoon.",E96.2.S34 2003,n
+i51462254,ustk ,2015-05-13 14:24,31,28,0,31,0,31,b33153334,"The legacy of school for Aboriginal people : education, oppression, and emancipation / Bernard Schissel & Terry Wotherspoon.",E96.2.S34 2003,n
+i57995680,estkg,2016-06-21 15:20,18,14,0,18,0,18,b33153334,"The legacy of school for Aboriginal people : education, oppression, and emancipation / Bernard Schissel & Terry Wotherspoon.",E96.2.S34 2003,n
+i81305126,estkg,2016-04-19 11:35,2,0,0,2,0,2,b6514997x,"First Nations, M_©tis, and Inuit student success / Deb St Amant.",E96.2.S73 2014,n
+i73593163,estkg,2016-08-03 13:05,1,0,1,0,0,1,b59435768,A study of aboriginal teachers' professional knowledge and experience in Canadian schools / prepared by Verna St. Denis.,E96.2.S734 2010,n
+i56795750,estkg,2015-11-26 16:44,14,11,1,13,0,14,b41859753,The new buffalo : the struggle for aboriginal post secondary education in Canada / Blair Stonechild.,E96.2.S76 2006,n
+i57817169,kcstk,2016-10-02 23:45,14,12,1,13,0,14,b41859753,The new buffalo : the struggle for aboriginal post secondary education in Canada / Blair Stonechild.,E96.2.S76 2006,n
+i60389321,hstk ,2013-11-25 17:22,4,4,0,4,0,4,b41859753,The new buffalo : the struggle for aboriginal post secondary education in Canada / Blair Stonechild.,E96.2.S76 2006,n
+i50208603,estkg,2012-05-15 18:16,8,6,0,8,0,8,b36228527,"Symposium on Literacy and Aboriginal Peoples 'Best Practices' Native 'Literacy' and Learning : proceedings : May 3rd and 4th, 2002 / [editors: Eileen Antone ... et al.].",E96.2.S96 2002,n
+i40245822,wstkg,2014-03-13 22:20,41,31,1,40,0,41,b29537034,Voice of the drum : indigenous education and culture / edited by Roger Neil.,E96.2.V64 2000,n
+i56758881,estkg,2016-02-04 12:33,18,7,0,18,0,18,b41780759,Supporting Indigenous children's development : community-university partnerships / Jessica Ball and Alan Pence.,E96.2B35 2006,n
+i46034596,jstk ,2015-04-26 12:21,31,20,0,31,0,31,b33662290,No end of grief : Indian residential schools in Canada / Agnes Grant.,E96.5 G72 1996,n
+i45997020,jstk ,2015-04-26 12:22,29,26,1,28,0,29,b3362558x,Shingwauk's vision : a history of native residential schools / J.R. Miller.,E96.5 M55 1996,n
+i46060200,jstk ,2014-03-14 13:15,14,6,0,14,0,14,b33686592,"A national crime : the Canadian government and the residential school system, 1879 to 1986 / John S. Milloy.",E96.5 M56 1999,n
+i58072639,wovrg,2008-04-03 13:05,3,6,0,3,0,6,b42596233,Hidden from history : the Canadian Holocaust : the untold story of the genocide of Aboriginal peoples by church and state in Canada / [by Kevin D. Annett].,E96.5.A55 2005,n
+i63028104,hovr ,2016-01-22 16:24,8,13,1,7,0,13,b48065973,"Residential schools, prisons and HIV/AIDS among Aboriginal People in Canada : exploring the connections / prepared for the Aboriginal Healing Foundation by J. Kevin Barlow.",E96.5.B37 2009,n
+i63292609,estkg,2015-03-23 11:54,13,2,0,13,0,13,b48437086,Indian residential schools : another picture / Eric Bays.,E96.5.B39 2009,n
+i60680234,wovrg,2016-11-14 12:26,39,25,3,36,0,39,b45124607,"From truth to reconciliation : transforming the legacy of residential schools / prepared for the Aboriginal Healing Foundation by Marlene Brant Castellano, Linda Archibald, Mike DeGagn_©.",E96.5.C37 2008,n
+i56285218,wovrg,2014-03-15 16:33,22,14,0,22,0,22,b41346336,"M_©tis history and experience and residential schools in Canada / by Larry N. Chartrand, Tricia E. Logan, Judy D. Daniels.",E96.5.C437 2006,n
+i3481047x,wstkg,2009-03-23 16:10,71,48,0,71,0,71,b26473793,The circle game : shadows and substance in the Indian residential school experience in Canada / Roland D. Chrisjohn and Sherri L. Young   with contributions by Michael Maraun.,E96.5.C57 1997,n
+i34970988,estkg,2010-02-19 8:52,52,27,0,52,0,52,b26473793,The circle game : shadows and substance in the Indian residential school experience in Canada / Roland D. Chrisjohn and Sherri L. Young   with contributions by Michael Maraun.,E96.5.C57 1997,n
+i53524718,kcstk,2016-08-04 11:44,29,19,1,28,0,29,b39106500,The circle game : shadows and substance in the Indian residential school experience in Canada / Roland Chrisjohn and Sherri L. Young   with contributuions by Michael Maraun.,E96.5.C57 2006,n
+i54000683,wstkg,2016-04-19 15:57,43,33,1,42,0,43,b39106500,The circle game : shadows and substance in the Indian residential school experience in Canada / Roland Chrisjohn and Sherri L. Young   with contributuions by Michael Maraun.,E96.5.C57 2006,n
+i66998219,ckit2,2017-01-26 13:55,13,0,1,12,4,25,b52804781,Circle of life. A day at Indian residential schools in Canada [kit].,E96.5.C574 2011,n
+i67239882,ckit2,2015-03-04 16:18,11,0,0,11,4,22,b52804781,Circle of life. A day at Indian residential schools in Canada [kit].,E96.5.C574 2011,n
+i67239894,ckit2,2016-01-20 17:38,4,0,0,4,4,8,b52804781,Circle of life. A day at Indian residential schools in Canada [kit].,E96.5.C574 2011,n
+i72022346,ckit2,2016-02-29 14:35,9,0,0,9,4,18,b58447192,Circle of life. An indigenous perspective of social studies and history curriculum [kit] / developed by the Indigenous Education Coalition.,E96.5.C5742 2011,n
+i72022383,ckit2,2016-01-20 17:38,3,0,0,3,4,6,b58447192,Circle of life. An indigenous perspective of social studies and history curriculum [kit] / developed by the Indigenous Education Coalition.,E96.5.C5742 2011,n
+i72741120,ckit2,2016-01-20 17:38,2,0,0,2,4,4,b58447192,Circle of life. An indigenous perspective of social studies and history curriculum [kit] / developed by the Indigenous Education Coalition.,E96.5.C5742 2011,n
+i8031546x,ckit2,2015-03-04 16:17,2,0,0,2,4,4,b64194796,The day of the apology [videorecording] = Jour de la pr_©sentation des excuses.,E96.5.D39 2009,n
+i84191594,ucirc,  -  -  ,0,0,0,0,17,0,b64194796,The day of the apology [videorecording] = Jour de la pr_©sentation des excuses.,E96.5.D39 2009,n
+i3719754x,wstkg,2015-10-16 13:07,52,29,0,52,0,52,b2752307x,Sing the brave song / by Judith Ennamorato.,E96.5.E56 1999,n
+i44700349,hstk ,2012-03-26 13:17,17,10,0,17,0,17,b2752307x,Sing the brave song / by Judith Ennamorato.,E96.5.E56 1999,n
+i61799476,ckit2,2013-01-09 15:15,9,0,0,9,4,18,b46751440,The fallen feather [videorecording] : Indian industrial residential schools Canadian Confederation.,E96.5.F355 2007,n
+i61824458,kdvd ,2013-10-07 14:48,10,0,0,10,17,20,b46751440,The fallen feather [videorecording] : Indian industrial residential schools Canadian Confederation.,E96.5.F355 2007,n
+i62146178,ckit2,2015-02-11 14:17,8,0,0,8,4,16,b46751440,The fallen feather [videorecording] : Indian industrial residential schools Canadian Confederation.,E96.5.F355 2007,n
+i62874494,ucirc,2012-07-11 11:01,3,0,0,3,17,6,b46751440,The fallen feather [videorecording] : Indian industrial residential schools Canadian Confederation.,E96.5.F355 2007,n
+i62874500,ucirc,2012-07-11 11:01,5,0,0,5,17,10,b46751440,The fallen feather [videorecording] : Indian industrial residential schools Canadian Confederation.,E96.5.F355 2007,n
+i64046199,wstkg,2016-09-23 12:14,18,14,2,16,0,18,b5239394x,Broken circle : the dark legacy of Indian residential schools : a memoir / Theodore Fontaine.,E96.5.F66 2010,n
+i72249705,estkg,2017-01-26 13:55,5,3,1,4,0,5,b57879679,Cyber moccasins : beyond residential school / Mary Fortier.,E96.5.F673 2011,n
+i84206469,estkg,  -  -  ,0,0,0,0,0,0,b68228508,A is for assimilation : the ABC's of Canada's Aboriginal people and residential schools / Len Fortune.,E96.5.F6785 2011,n
+i50494806,wstkg,2016-12-01 13:50,60,26,1,59,0,60,b36392212,Finding my talk : how fourteen Native women reclaimed their lives after residential school / Agnes Grant.,E96.5.G718 2004,n
+i61830811,kcstk,2016-10-30 23:40,22,14,1,21,0,22,b36392212,Finding my talk : how fourteen Native women reclaimed their lives after residential school / Agnes Grant.,E96.5.G718 2004,n
+i42123793,hstk ,2015-05-26 15:56,47,25,0,47,0,47,b30726852,No end of grief : Indian residential schools in Canada / Agnes Grant.,E96.5.G73,n
+i43973000,ustk ,2014-02-25 11:57,1,2,0,1,0,2,b62051337,Resistance and renewal : surviving the Indian residential school / Celia Haig-Brown.,E96.5.H14 2006,n
+i81232810,kdvd ,  -  -  ,0,0,0,0,17,0,b65080117,"Jingle dress [videorecording] / a film by James Buffin   producer/director, James Buffin.",E96.5.J56 2014,n
+i6345404x,estkg,2016-02-04 12:32,9,2,1,8,0,9,b48921713,Fatty legs : a true story / Christy Jordan-Fenton & Margaret Pokiak-Fenton   artwork by Liz Amini-Holmes.,E96.5.J65 2010,n
+i70258612,cfbg ,2012-02-10 10:18,1,0,0,1,0,1,b55842732,Les bas du pensionnat : une histoire vraie / Christy Jordan-Fenton et Margaret Pokiak-Fenton   illustrations de Liz Amini-Holmes   texte fran_ßais d'H_©l_®ne Pilotto.,E96.5.J6514 2011,n
+i72246741,estkg,2016-02-04 12:33,5,0,1,4,0,5,b5787671x,A stranger at home : a true story / Christy Jordan-Fenton & Margaret Pokiak-Fenton   artwork by Liz Amini-Holmes.,E96.5.J652 2011,n
+i79255838,estkg,2016-03-30 15:11,3,0,0,3,0,3,b63185428,Not my girl / Christy Jordan-Fenton & Margaret Pokiak-Fenton   art by Gabrielle Grimard.,E96.5.J652 2014,n
+i73782397,cfbg ,2016-01-06 16:58,1,1,0,1,0,1,b59604669,_âtrang_®re chez moi : une vraie histoire / Christy Jordan-Fenton et Margaret Pokiak-Fenton   Illustrations de Liz Amini-Holmes   Texte fran_ßais d'H_©l_®ne Pilotto.,E96.5.J65214 2012,n
+i77423446,estkg,2017-01-26 13:55,4,0,1,3,0,4,b61264817,When I was eight / Christy Jordan-Fenton & Margaret Pokiak-Fenton   art by Gabrielle Grimard.,E96.5.J653 2013,n
+i4385235x,wovrg,2016-04-25 17:47,54,34,0,54,0,54,b32126098,Justice and reconciliation : the legacy of Indian residential schools and the journey toward reconciliation : a resource for congregations / the United Church of Canada.,E96.5.J87 2001,n
+i80437321,kcstk,2016-11-15 17:54,8,2,2,6,0,8,b64289254,"Residential schools : with the words and images of survivors / Larry Loyie with Wayne K. Spear, Constance Brissenden.",E96.5.L69 2014,n
+i80706915,hstk ,2015-12-01 12:19,2,0,0,2,0,2,b64289254,"Residential schools : with the words and images of survivors / Larry Loyie with Wayne K. Spear, Constance Brissenden.",E96.5.L69 2014,n
+i82102661,wstkg,2016-11-17 19:54,3,0,3,0,0,3,b64289254,"Residential schools : with the words and images of survivors / Larry Loyie with Wayne K. Spear, Constance Brissenden.",E96.5.L69 2014,n
+i84212263,estkg,2017-01-26 13:55,2,0,2,0,0,2,b64289254,"Residential schools : with the words and images of survivors / Larry Loyie with Wayne K. Spear, Constance Brissenden.",E96.5.L69 2014,n
+i8057385x,kcstk,2017-02-09 16:08,2,0,2,0,0,2,b6443106x,The education of Augie Merasty : a residential school memoir / Joseph Auguste Merasty with David Carpenter.,E96.5.M47A3 2015,n
+i80694743,hstk ,2015-07-08 15:02,1,0,0,1,0,1,b6443106x,The education of Augie Merasty : a residential school memoir / Joseph Auguste Merasty with David Carpenter.,E96.5.M47A3 2015,n
+i80937615,wstkg,2016-11-29 10:25,1,1,1,0,0,1,b6443106x,The education of Augie Merasty : a residential school memoir / Joseph Auguste Merasty with David Carpenter.,E96.5.M47A3 2015,n
+i41798053,hstk ,2015-11-10 13:52,58,38,1,57,0,58,b30437775,Shingwauk's vision : a history of native residential schools / J.R. Miller.,E96.5.M54,n
+i36789070,wstkg,2016-11-29 9:34,112,41,2,162,0,162,b27302039,"A national crime : the Canadian government and the residential school system, 1879-1986 / John S. Milloy.",E96.5.M54 1999,y
+i4189215x,hmz  ,2015-06-10 9:21,52,41,1,51,0,52,b30519287,"A national crime : the Canadian government and the residential school system, 1879 to 1986 / John S. Milloy.",E96.5.M544,y
+i47061108,kcstk,2016-11-23 16:43,46,28,2,53,0,53,b34469515,Shingwauk's vision : a history of native residential schools / J.R. Miller.,E96.5.M54S4,n
+i47155991,kcstk,2016-04-11 8:38,53,34,0,66,0,66,b34556588,"A national crime : the Canadian government and the residential school system, 1879-1986 / John S. Milloy.",E96.5.M55N3,y
+i43942222,ustk ,2015-11-23 15:02,49,32,0,49,0,49,b32197159,"A national crime : the Canadian government and the residential school system, 1879 to 1986 / John S. Milloy.",E96.5.M65,y
+i51526359,ustk ,2015-04-22 13:03,27,21,0,27,0,27,b32197159,"A national crime : the Canadian government and the residential school system, 1879 to 1986 / John S. Milloy.",E96.5.M65,y
+i62359290,ckit2,2015-11-03 9:03,18,0,0,18,4,36,b47428648,Muffins for granny [videorecording] = Des muffins pour grand-maman / Feather Productions presents   a documentary by Nadia McLaren.,E96.5.M84 2007,n
+i7753573x,ustk ,2016-03-02 18:33,6,3,0,6,0,6,b62135351,Truth and indignation : Canada's Truth and Reconciliation Commission on Residential Schools / Ronald Niezen.,E96.5.N53 2013,n
+i78203879,hstk ,2017-01-09 11:40,7,5,1,6,0,7,b62135351,Truth and indignation : Canada's Truth and Reconciliation Commission on Residential Schools / Ronald Niezen.,E96.5.N53 2013,n
+i8147796x,estkg,  -  -  ,0,0,0,0,0,0,b62135351,Truth and indignation : Canada's Truth and Reconciliation Commission on Residential Schools / Ronald Niezen.,E96.5.N53 2013,n
+i84279710,kcstk,  -  -  ,0,0,0,0,0,0,b62135351,Truth and indignation : Canada's Truth and Reconciliation Commission on Residential Schools / Ronald Niezen.,E96.5.N53 2013,n
+i64023096,hstk ,2016-10-27 12:27,24,21,4,20,0,24,b49512122,"Unsettling the settler within : Indian residential schools, truth telling, and reconciliation in Canada / Paulette Regan.",E96.5.R44 2010,n
+i66988032,ustk ,2016-11-04 15:43,22,14,1,21,0,22,b49512122,"Unsettling the settler within : Indian residential schools, truth telling, and reconciliation in Canada / Paulette Regan.",E96.5.R44 2010,n
+i68065139,wstkg,2016-12-01 15:30,15,23,4,11,0,23,b49512122,"Unsettling the settler within : Indian residential schools, truth telling, and reconciliation in Canada / Paulette Regan.",E96.5.R44 2010,n
+i71208744,kcstk,2016-02-18 19:39,11,7,0,11,0,11,b49512122,"Unsettling the settler within : Indian residential schools, truth telling, and reconciliation in Canada / Paulette Regan.",E96.5.R44 2010,n
+i84213322,estkg,  -  -  ,0,0,0,0,0,0,b49512122,"Unsettling the settler within : Indian residential schools, truth telling, and reconciliation in Canada / Paulette Regan.",E96.5.R44 2010,n
+i63230264,wovrg,2016-02-22 20:57,8,5,0,8,0,8,b48399656,The indian residential schools settlement agreement's common experience payment and healing : a qualitative study exploring impacts on recipients / prepared for Aboriginal Healing Foundation by Gwen Reimer ... [et al].,E96.5.R45 2010,n
+i63523383,hovr ,2016-03-14 15:56,4,2,0,4,0,4,b48399656,The indian residential schools settlement agreement's common experience payment and healing : a qualitative study exploring impacts on recipients / prepared for Aboriginal Healing Foundation by Gwen Reimer ... [et al].,E96.5.R45 2010,n
+i62505403,wovrg,2015-03-10 16:49,21,11,0,21,0,21,b4756846x,"Response, responsibility, and renewal : Canada's truth and reconciliation journey / edited for the Aboriginal Healing Foundation by Gregory Younging, Jonathan Dewar, Mike DeGagn_©.",E96.5.R47 2009,n
+i80298564,hstk ,2015-02-28 12:24,1,0,0,1,0,1,b64181455," Speaking my truth  : reflections on reconciliation & residential school / selected by Shelagh Rogers, Mike DeGagn_©, Jonathan Dewar, Glen Lowry.",E96.5.S64 2012,n
+i80315471,estkg,2016-06-21 15:20,2,1,0,2,0,2,b64181455," Speaking my truth  : reflections on reconciliation & residential school / selected by Shelagh Rogers, Mike DeGagn_©, Jonathan Dewar, Glen Lowry.",E96.5.S64 2012,n
+i80796114,kcstk,2016-11-15 17:54,2,0,1,1,0,2,b64181455," Speaking my truth  : reflections on reconciliation & residential school / selected by Shelagh Rogers, Mike DeGagn_©, Jonathan Dewar, Glen Lowry.",E96.5.S64 2012,n
+i84191582,ustk ,  -  -  ,0,0,0,0,0,0,b64181455," Speaking my truth  : reflections on reconciliation & residential school / selected by Shelagh Rogers, Mike DeGagn_©, Jonathan Dewar, Glen Lowry.",E96.5.S64 2012,n
+i61466220,hvid ,2015-02-26 9:10,20,0,0,20,17,40,b46110343,Stolen children [videorecording] / a CBC production.,E96.5.S737 2008,n
+i68085461,ckit2,2015-02-13 14:44,13,0,0,13,4,26,b46110343,Stolen children [videorecording] / a CBC production.,E96.5.S737 2008,n
+i67074716,ckit2,2015-02-26 13:35,10,0,0,10,4,20,b5568290x,Stolen children [videorecording] : truth and reconciliation / Canadian Broadcasting Corporation.,E96.5.S7378 2010,n
+i60479036,wstkg,2017-01-16 14:39,35,12,2,33,0,35,b4495010x,Moving beyond : understanding the impacts of residential school / Brent Stonefish   edited by Jode Kechego.,E96.5.S75 2007,n
+i80298643,hmz  ,2015-03-12 18:26,1,2,0,1,0,2,b64194814,"Aboriginal people, resilience and the residential school legacy / prepared for the Aboriginal Healing Foundation by Madeleine Dion Stout and Gregory Kipling.",E96.5.S76 2014,n
+i80315483,estkg,2016-10-19 18:06,1,0,1,0,0,1,b64194814,"Aboriginal people, resilience and the residential school legacy / prepared for the Aboriginal Healing Foundation by Madeleine Dion Stout and Gregory Kipling.",E96.5.S76 2014,n
+i80796126,kcstk,2016-10-30 23:40,3,2,2,1,0,3,b64194814,"Aboriginal people, resilience and the residential school legacy / prepared for the Aboriginal Healing Foundation by Madeleine Dion Stout and Gregory Kipling.",E96.5.S76 2014,n
+i84191570,ustk ,  -  -  ,0,0,0,0,0,0,b64194814,"Aboriginal people, resilience and the residential school legacy / prepared for the Aboriginal Healing Foundation by Madeleine Dion Stout and Gregory Kipling.",E96.5.S76 2014,n
+i81797916,kcstk,  -  -  ,0,0,0,0,0,0,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i81797928,kcstk,  -  -  ,0,0,0,0,0,0,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i8179793x,kcstk,2016-11-23 14:01,2,0,1,1,0,2,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i81797941,kcstk,  -  -  ,0,0,0,0,0,0,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i81797953,kcstk,  -  -  ,0,0,0,0,0,0,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i81797965,kcstk,  -  -  ,0,0,0,0,0,0,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i81797977,kcstk,2016-10-24 12:40,2,1,1,1,0,2,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i81889136,hstk ,2016-10-19 18:06,3,0,3,0,0,3,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i82028552,hstk ,  -  -  ,0,0,0,0,0,0,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i82028564,hstk ,  -  -  ,1,0,1,0,0,1,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i82028576,hstk ,  -  -  ,0,0,0,0,0,0,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i82028588,hstk ,  -  -  ,0,0,0,0,0,0,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i8202859x,hstk ,  -  -  ,0,0,0,0,0,0,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i82028606,hstk ,  -  -  ,0,0,0,0,0,0,b65353390,Canada's residential schools : the final report of the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada.,E96.5.T773 2015,n
+i81773444,kcstk,2016-09-22 9:17,2,1,1,1,0,2,b65588514,A knock on the door : the essential history of residential schools from the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada   foreword by Phil Fontaine.,E96.5.T778 2016,n
+i82390502,ustk ,2016-08-30 13:11,1,0,1,0,0,1,b65588514,A knock on the door : the essential history of residential schools from the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada   foreword by Phil Fontaine.,E96.5.T778 2016,n
+i84260208,estkg,  -  -  ,0,0,0,0,0,0,b65588514,A knock on the door : the essential history of residential schools from the Truth and Reconciliation Commission of Canada / Truth and Reconciliation Commission of Canada   foreword by Phil Fontaine.,E96.5.T778 2016,n
+i80298680,hmz  ,2016-04-18 13:38,2,2,0,2,0,2,b64194826,"From truth to reconciliation : transforming the legacy of residential schools / edited by Marlene Brant Castellano, Linda Archibald, Mike DeGagn_©.",E96.5.T78 2011 v.1,n
+i80315495,ckit2,2015-10-15 12:59,2,0,0,2,4,4,b64194826,"From truth to reconciliation : transforming the legacy of residential schools / edited by Marlene Brant Castellano, Linda Archibald, Mike DeGagn_©.",E96.5.T78 2011 v.1,n
+i80796072,kcstk,2016-10-02 23:45,4,4,1,3,0,4,b64194826,"From truth to reconciliation : transforming the legacy of residential schools / edited by Marlene Brant Castellano, Linda Archibald, Mike DeGagn_©.",E96.5.T78 2011 v.1,n
+i84271164,ustk ,  -  -  ,0,0,0,0,0,0,b64194826,"From truth to reconciliation : transforming the legacy of residential schools / edited by Marlene Brant Castellano, Linda Archibald, Mike DeGagn_©.",E96.5.T78 2011 v.1,n
+i80298679,hmz  ,2015-03-25 12:33,1,0,0,1,0,1,b64194838,"Response, responsibility, and renewal : Canada's truth and reconciliation journey / edited by Gregory Younging, Jonathan Dewar, Mike DeGagn_©.",E96.5.T78 2011 v.2,n
+i80315525,ckit2,2015-10-15 12:58,2,0,0,2,4,4,b64194838,"Response, responsibility, and renewal : Canada's truth and reconciliation journey / edited by Gregory Younging, Jonathan Dewar, Mike DeGagn_©.",E96.5.T78 2011 v.2,n
+i80796096,kcstk,2016-10-24 12:40,3,0,1,2,0,3,b64194838,"Response, responsibility, and renewal : Canada's truth and reconciliation journey / edited by Gregory Younging, Jonathan Dewar, Mike DeGagn_©.",E96.5.T78 2011 v.2,n
+i84277993,ustk ,  -  -  ,0,0,0,0,0,0,b64194838,"Response, responsibility, and renewal : Canada's truth and reconciliation journey / edited by Gregory Younging, Jonathan Dewar, Mike DeGagn_©.",E96.5.T78 2011 v.2,n
+i80298667,hstk ,  -  -  ,0,0,0,0,0,0,b6419484x,"Cultivating Canada : reconciliation through the lens of cultural diversity / edited by Ashok Mathur, Jonathan Dewar, Mike DeGagn_©.",E96.5.T78 2011 v.3,n
+i80315537,ckit2,  -  -  ,0,0,0,0,4,0,b6419484x,"Cultivating Canada : reconciliation through the lens of cultural diversity / edited by Ashok Mathur, Jonathan Dewar, Mike DeGagn_©.",E96.5.T78 2011 v.3,n

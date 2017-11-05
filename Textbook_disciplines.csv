@@ -1,0 +1,47 @@
+Course,Code,Subject,Discipline,Number of Courses,Total Subject Enrollment,Average Enrollment per Course,Number of Required Textbooks,Avg Textbooks per Course,Total Textbook Cost,Average Textbook Cost Per Course,Number of Textbooks Collected,Percent of Textbooks Collected
+AHU1020EÊArts & Humanities 1020e,AHU1020EÊ,Arts & Humanities,Arts and Humanities,1,54,54,7,7,138.25,138.25,4,0.57
+AMA1413ÊApplied Mathematics 1413Ê,AMA1413Ê,Applied Mathematics,Science,1,599,599,1,1,203.95,203.95,0,0
+AME1020Ê American Studies 1020Ê,AME1020Ê,American Studies,Social Science,2,57,28.5,4,2,91.76,45.88,1,0.25
+ANA2221ÊAnatomy 2221Ê,ANA2221Ê,Anatomy,Medicine and Dentistry,3,402,134,4,1.333333333,460.6,153.5333333,1,0.25
+ANT1020EÊAnthropology 1020eÊ,ANT1020EÊ,Anthropology,Social Science,3,233,77.66666667,8,2.666666667,423.5,141.1666667,7,0.88
+ARA1030ÊArabic 1035,ARA1030Ê,Arabic,Arts and Humanities,1,164,164,4,4,288.21,288.21,0,0
+ASC2053ÊActuarial Sciences 2053Ê,ASC2053Ê,Actuarial Sciences,Science,1,446,446,2,2,164.04,164.04,1,0.5
+AST1021ÊAstronomy 1021Ê,AST1021Ê,Astronomy,Science,1,408,408,1,1,91.8,91.8,0,0
+BUS1220EÊBusiness Administration 1220eÊ,BUS1220EÊ,Business Administration,Business,4,1471,367.75,6,1.5,812.65,203.1625,1,0.17
+CEE2224ÊCivil + Enviro Engineer 2224Ê,CEE2224Ê,Civil + Enviro Eng,Engineering,1,94,94,1,1,201.95,201.95,0,0
+CLA1000ÊClassical Studies 1000Ê,CLA1000Ê,Classical Studies,Arts and Humanities,1,1737,1737,8,8,655.95,655.95,4,0.5
+CLC1040ÊComparative Lit + Cul 1040Ê,CLC1040Ê,Comparative Literature,Arts and Humanities,2,45,22.5,6,3,308.14,154.07,4,0.67
+DEN5130ÊDentistry 5130Ê,DEN5130Ê,Dentistry,Medicine and Dentistry,6,356,59.33333333,7,1.166666667,949.21,158.2016667,3,0.43
+EGS1022YÊEngineering Science 1022yÊ,EGS1022YÊ,Engineering Science,Engineering,1,452,452,1,1,203.95,203.95,0,0
+ENG1020EÊEnglish 1020eÊ,ENG1020EÊ,English,Arts and Humanities,17,1150,67.64705882,111,6.529411765,2933.44,172.5552941,38,0.34
+FIL1022ÊFilm Studies 1022Ê,FIL1022Ê,Film Studies,Arts and Humanities,1,286,286,1,1,173.35,173.35,0,0
+FNS1020EÊFirst Nations Studies 1020eÊ,FNS1020EÊ,First Nations Studies,Social Science,3,76,25.33333333,9,3,419.45,139.8166667,5,0.56
+FRE1002ÊFrench 1002Ê,FRE1002Ê,French,Arts and Humanities,3,318,106,6,2,536.87,178.9566667,1,0.17
+GEO1100ÊGeography 1100Ê,GEO1100Ê,Geography,Social Science,1,144,144,1,1,243.75,243.75,0,0
+GER1030ÊGerman 1030Ê,GER1030Ê,German,Arts and Humanities,3,168,56,3,1,539.5,179.8333333,0,0
+GRK1000ÊGreek 1000Ê,GRK1000Ê,Greek,Arts and Humanities,1,14,14,1,1,61.75,61.75,0,0
+HIN1030ÊHindi 1030Ê,HIN1030Ê,Hindi,Arts and Humanities,1,16,16,1,1,39.99,39.99,0,0
+HIS1401EÊHistory 1401eÊ,HIS1401EÊ,History ,Social Science,25,1378,55.12,67,2.68,4028.89,161.1556,44,0.66
+ITA1030ÊItalian 1030Ê,ITA1030Ê,Italian,Arts and Humanities,3,172,57.33333333,5,1.666666667,485.9,161.9666667,0,0
+JAP1036ÊJapanese 1036Ê,JAP1036Ê,Japanese,Arts and Humanities,2,207,103.5,4,2,211.4,105.7,0,0
+LAT1000ÊLatin 1000Ê,LAT1000Ê,Latin,Arts and Humanities,1,52,52,1,1,26.99,26.99,0,0
+LAW2101ÊLaw 2101Ê,LAW2101Ê,Law,Law,6,1328,221.3333333,7,1.166666667,567.5,94.58333333,4,0.57
+MDV1022ÊMedieval Studies 1022Ê,MDV1022Ê,Medieval Studies,Arts and Humanities,1,73,73,3,3,57.2,57.2,0,0
+MUS2942YÊMusic 2942yÊ,MUS2942YÊ,Music,Music,5,88,17.6,11,2.2,882.9,176.58,3,0.27
+NEU2000ÊNeuroscience 2000Ê,NEU2000Ê,Neuroscience,Social Science,1,44,44,1,1,183.1,183.1,0,0
+NUR2500SÊNursing 2500sÊ,NUR2500SÊ,Nursing,Health Sciences,1,78,78,1,1,85.95,85.95,0,0
+PHI1200ÊPhilosophy 1200Ê,PHI1200Ê,Philosophy,Arts and Humanities,4,632,158,6,1.5,234.69,58.6725,1,0.17
+PHL1021ÊPhysiology 1021Ê,PHL1021Ê,Physiology,Medicine and Dentistry,3,1441,480.3333333,5,1.666666667,518.33,172.7766667,0,0
+PHY1021ÊPhysics 1021Ê,PHY1021Ê,Physics,Science,1,29,29,1,1,118.3,118.3,0,0
+POL1020EÊPolitical Science 1020eÊ,POL1020EÊ,Political Science,Social Science,12,1669,139.0833333,25,2.083333333,1683.8,140.3166667,12,0.48
+POR1030ÊPortuguese 1030Ê,POR1030Ê,Portuguese,Arts and Humanities,1,19,19,1,1,147.65,147.65,0,0
+PSY1000ÊPsychology 1000Ê,PSY1000Ê,Psychology,Social Science,6,3107,517.8333333,7,1.166666667,980.15,163.3583333,3,0.43
+RUS1030ÊRussian 1030Ê,RUS1030Ê,Russian,Arts and Humanities,1,24,24,2,2,265.75,265.75,0,0
+SEE4450ÊSoftware Engineering 4450Ê,SEE4450Ê,Software Engineering,Engineering,1,64,64,1,1,105.2,105.2,0,0
+SOC1020ÊSociology 1020Ê,SOC1020Ê,Sociology,Social Science,11,1441,131,25,2.272727273,2129.69,193.6081818,12,0.48
+SPA1030ÊSpanish 1030Ê,SPA1030Ê,Spanish,Arts and Humanities,3,251,83.66666667,3,1,488.6,162.8666667,0,0
+SPE2001ÊSpeech 2001Ê,SPE2001Ê,Speech,Arts and Humanities,1,129,129,1,1,98.2,98.2,0,0
+STA2035ÊStatistical Science 2035Ê,STA2035Ê,Statistical Science,Science,1,528,528,1,1,111.15,111.15,0,0
+TST2203EÊTheatre Studies 2203eÊ,TST2203EÊ,Theatre Studies,Arts and Humanities,1,15,15,1,1,134.25,134.25,0,0
+VAS1020ÊVisual Arts Studio 1020Ê,VAS1020Ê,Visual Arts Studio,Arts and Humanities,1,200,200,1,1,217.25,217.25,1,1
+WOM1020EÊWomens Studies 1020eÊ,WOM1020EÊ,Womens Studies,Arts and Humanities,3,419,139.6666667,5,1.666666667,158.15,52.71666667,2,0.4

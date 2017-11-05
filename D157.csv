@@ -1,0 +1,60 @@
+RECORD #(ITEM),LOCATION,LOUTDATE,TOT CHKOUT,TOT RENEW,YTDCIRC,TOTAL CIRC,I TYPE,Circ,RECORD #(BIBLIO),245,99,IsText
+i1035573x,wstkg,12/17/2014 15:54,23,19,0,23,0,23,b10271478,Soldiers of the faith : Crusaders and Moslems at war / Ronald C. Finucane.,D157.F56 1983,n
+i45504842,wstkg,3/30/2011 15:56,5,1,0,5,0,5,b33202163,Encounter between enemies : captivity and ransom in the Latin Kingdom of Jerusalem / by Yvonne Friedman.,D157.F72 2002,n
+i73721980,wstkg,3/31/2016 13:52,5,9,0,5,0,9,b59552566,Byzantium and the Crusades / Jonathan Harris.,D157.H323 2003,n
+i80175326,wstkg,11/7/2016 19:02,1,0,1,0,0,1,b64045031,Byzantium and the Crusades / Jonathan Harris.,D157.H323 2014,n
+i16349027,wstkg,2/23/2016 11:56,32,20,0,32,0,32,b15167471,"Armies and enemies of the crusades, 1096-1291 / by Ian Heath.",D157.H43,n
+i22282282,wstkg,3/8/2016 12:41,28,22,0,28,0,28,b18935813,A wargamers' guide to the Crusades / Ian Heath.,D157.H45 1980,n
+i62695009,wstkg,9/19/2016 13:36,9,0,1,8,0,9,b47714475,Contesting the Crusades / Norman Housley.,D157.H67 2006,n
+i50739888,wstkg,10/5/2012 11:59,6,4,0,6,0,6,b36501359,Crusading and warfare in medieval and Renaissance Europe / Norman Housley.,D157.H68 2001,n
+i62287357,wstkg,10/15/2014 11:42,5,3,0,5,0,5,b47345251,Fighting for the cross : crusading to the Holy Land / Norman Housley.,D157.H69 2008,n
+i62759097,hstk ,2/25/2013 12:09,3,1,0,3,0,3,b47345251,Fighting for the cross : crusading to the Holy Land / Norman Housley.,D157.H69 2008,n
+i56873827,wstkg,1/27/2011 13:26,4,2,0,4,0,4,b42522857,"From Clermont to Jerusalem : the Crusades and Crusader societies, 1095-1500 : selected proceedings of the International Medieval Congress, University of Leeds, 10-13 July 1995 / edited by Alan V. Murray.",D157.I58 1995,n
+i57978207,wstkg,11/23/2015 16:57,5,4,0,5,0,5,b42532139,The crusades / Nikolas Jaspert   translated by Phyllis G. Jestice.,D157.J37 2006,n
+i80134749,estkg,  -  -  ,0,0,0,0,0,0,b64007509,Crusades / by Gary Jeffrey & illustrated by Terry Riley.,D157.J44 2014,n
+i44352438,ustk ,3/24/2005 10:23,1,0,0,1,0,1,b32576262,The Crusades  : the whole story of the Crusades originally published in two volumes as Iron men and saints and The flame of Islam,D157.L16,n
+i42226892,hstk ,10/17/2006 14:14,1,0,0,1,0,1,b30817572,The Crusades.,D157.L3,n
+i22708339,wstkg,2/3/2011 15:52,4,2,0,4,0,4,b19274488,The crusades. Iron men and saints / by Harold Lamb.,D157.L3 1942,n
+i46127392,kcstk,1/23/2013 21:24,3,1,0,3,0,3,b33738658,The crusades ... by Harold Lamb ...,D157.L3C7,n
+i46127409,kcstk,2/24/2006 13:29,4,2,0,4,0,4,b33738658,The crusades ... by Harold Lamb ...,D157.L3C7,n
+i60388304,wstkg,12/17/2014 15:54,5,1,0,5,0,5,b44658898,The crusades and the Christian world of the East : rough tolerance / Christopher MacEvitt.,D157.M24 2008,n
+i61722467,hstk ,11/26/2015 14:41,7,2,0,7,0,7,b44658898,The crusades and the Christian world of the East : rough tolerance / Christopher MacEvitt.,D157.M24 2008,n
+i38457696,wstkg,3/8/2016 12:41,37,41,0,37,0,41,b2799224x,A concise history of the crusades / Thomas F. Madden.,D157.M33 1999,n
+i79269011,hstk ,2/6/2015 12:46,3,1,0,3,0,3,b63198654,The concise history of the crusades / Thomas F. Madden.,D157.M33 2013,n
+i8036908x,wstkg,12/1/2015 16:24,2,1,0,2,0,2,b64456857,The concise history of the crusades / Thomas F. Madden.,D157.M33 2014,n
+i44669136,wstkg,1/20/2011 20:56,20,13,0,20,0,20,b32707654,"Crusading peace : Christendom, the Muslim world, and Western political order / Toma_æ Mastnak.",D157.M376 2002,n
+i11124118,wstkg,9/27/2016 18:52,35,22,1,35,0,35,b1088015x,The Crusades  translated [from the German] by John Gillingham. -,D157.M3813,z
+i1112412x,wstkg,12/10/2016 20:11,20,18,2,18,0,20,b1088015x,The Crusades  translated [from the German] by John Gillingham. -,D157.M3813,z
+i41761224,hstk ,4/7/2011 18:06,8,4,0,8,0,8,b30406626,The Crusades  translated [from the German] by John Gillingham.,D157.M3813,z
+i23747493,wstkg,9/13/2016 16:17,8,5,1,84,0,84,b20146115,The Crusades / by Hans Eberhard Mayer   translated by John Gillingham.,D157.M3813 1988,y
+i47242176,kcstk,1/14/2011 14:36,11,8,0,11,0,11,b3463678x,"Crusading peace : Christendom, the Muslim world, and Western political order / Toma_æ Mastnak.",D157.M38C7,n
+i41945773,hstk ,  -  -  ,0,0,0,0,0,0,b30566836,Michaud's history of the crusades.,D157.M62,n
+i41945785,hstk ,  -  -  ,0,0,0,0,0,0,b30566836,Michaud's history of the crusades.,D157.M62,n
+i44352426,ustk ,3/24/2005 10:24,1,0,0,1,0,1,b32576250,The kingdom of the crusaders,D157.M96,n
+i5148206x,wstkg,3/9/2016 14:24,16,16,0,16,0,16,b37199195,The Crusades / Helen Nicholson.,D157.N48 2004,n
+i58488704,wstkg,2/23/2016 11:56,16,13,1,15,0,16,b42627916,Crusader warfare / David Nicolle.,D157.N52 2007,n
+i60218253,wstkg,2/23/2016 11:56,12,16,1,11,0,16,b42627916,Crusader warfare / David Nicolle.,D157.N52 2007,n
+i5689515x,kcstk,10/20/2014 16:38,11,6,0,11,0,11,b41951888,The Oxford illustrated history of the Crusades / edited by Jonathan Riley-Smith.,D157.O48 1997,n
+i12531753,wstkg,2/2/2007 12:47,9,7,0,9,0,9,b12038076,The crusades / translated from the French by Anne Carter.,D157.O54,n
+i3325607x,wstkg,3/29/2016 9:18,52,30,0,52,0,52,b25623989,The Oxford illustrated history of the crusades / edited by Jonathan Riley-Smith.,D157.O94 1995,n
+i10148991,wstkg,3/8/2016 12:41,20,13,0,20,0,20,b1010043x,The dream and the tomb : a history of the Crusades / Robert Payne,D157.P35 1984,n
+i42288812,hstk ,10/19/2006 22:03,2,0,0,2,0,2,b30872339,The crusaders.,D157.P45,n
+i80711649,hstk ,1/5/2017 13:51,2,5,2,0,0,5,b64558824,"The Crusades, 1095-1204 / Jonathan Phillips.",D157.P54 2014,n
+i70256457,hstk ,10/23/2015 14:45,4,4,1,3,0,4,b5583792x,Holy warriors : a modern history of the crusades / Jonathan Phillips.,D157.P55 2009,n
+i63067109,ustk ,3/28/2012 16:41,3,0,0,3,0,3,b48094584,Holy warriors : a modern history of the crusades / Jonathan Phillips.,D157.P56 2010,n
+i58776965,wstkg,1/9/2017 13:57,8,3,2,6,0,8,b42947649,"The Crusades, the Kingdom of Sicily, and the Mediterranean / James M. Powell.",D157.P68 2007,n
+i41706523,hstk ,2/5/2010 16:09,5,3,0,5,0,5,b3035786x,The world of the Crusaders.,D157.P7 1973,n
+i37469782,wstkg,3/8/2016 12:41,43,33,0,43,0,43,b27622885,"The Crusades, c.1071-c.1291 / Jean Richard   translated by Jean Birrell.",D157.R52313 1999,n
+i48865837,jstk ,2/5/2016 11:20,15,6,0,15,0,15,b27622885,"The Crusades, c.1071-c.1291 / Jean Richard   translated by Jean Birrell.",D157.R52313 1999,n
+i78593177,hstk ,1/5/2017 13:51,6,8,2,4,0,8,b62515809,The Crusades : a history / Jonathan Riley-Smith.,D157.R53 2014,n
+i23336377,wstkg,11/4/2013 14:38,33,19,0,44,0,44,b1982208x,The crusades : a short history / Jonathan Riley-Smith.,D157.R539 1987,n
+i13742723,wstkg,3/2/2008 13:17,21,11,0,21,0,21,b13050333,What were the crusades? / Jonathan Riley-Smith.,D157.R54 1977b,n
+i41991667,hstk ,10/19/2016 15:20,11,5,1,10,0,11,b30607152,What were the crusades? / Jonathan Riley-Smith.,D157.R54 1977B,n
+i66904730,wstkg,3/11/2016 12:35,10,5,0,10,0,10,b52402654,What were the crusades? / Jonathan Riley-Smith.,D157.R54 2009,n
+i6139645x,wstkg,11/23/2015 16:57,10,2,0,10,0,10,b46045259,"The crusades, Christianity, and Islam / Jonathan Riley-Smith.",D157.R556 2008,n
+i61437943,kcstk,2/14/2011 12:55,5,1,0,5,0,5,b46045259,"The crusades, Christianity, and Islam / Jonathan Riley-Smith.",D157.R556 2008,n
+i53994619,kcstk,10/20/2016 9:26,21,11,3,18,0,21,b40238556,The crusades : a history / Jonathan Riley-Smith.,D157.R55C7 2005,n
+i63211749,wstkg,9/8/2016 15:55,19,14,2,17,0,19,b40238556,The crusades : a history / Jonathan Riley-Smith.,D157.R55C7 2005,n
+i42644902,hstk ,2/24/2015 14:59,2,1,0,2,0,2,b31183165,Histoire des croisades.,D157.R64,n
+i1253156x,wstkg,4/27/2011 15:09,6,0,0,6,0,6,b12037990,A history of the Crusades. -,D157.R8,n
+i12531571,wstkg,4/4/2012 12:04,14,3,1,13,0,14,b12037990,A history of the Crusades. -,D157.R8,n
